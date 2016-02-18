@@ -727,6 +727,14 @@ id,category,name,mount,guidance,ship,class,rating
 128671288,internal,Prospector Limpet Controller,,,,7,A
 128671321,hardpoint,Fragment Cannon,Gimballed,,,3,C
 128671322,hardpoint,Fragment Cannon,Turreted,,,3,C
+128671323,internal,Prismatic Shield Generator,,,,1,A
+128671324,internal,Prismatic Shield Generator,,,,2,A
+128671325,internal,Prismatic Shield Generator,,,,3,A
+128671326,internal,Prismatic Shield Generator,,,,4,A
+128671327,internal,Prismatic Shield Generator,,,,5,A
+128671328,internal,Prismatic Shield Generator,,,,6,A
+128671329,internal,Prismatic Shield Generator,,,,7,A
+128671330,internal,Prismatic Shield Generator,,,,8,A
 128671331,internal,Bi-Weave Shield Generator,,,,1,C
 128671332,internal,Bi-Weave Shield Generator,,,,2,C
 128671333,internal,Bi-Weave Shield Generator,,,,3,C
@@ -736,6 +744,7 @@ id,category,name,mount,guidance,ship,class,rating
 128671337,internal,Bi-Weave Shield Generator,,,,7,C
 128671338,internal,Bi-Weave Shield Generator,,,,8,C
 128671448,hardpoint,Shock Mine Launcher,Fixed,,,1,I
+128671449,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F
 128671832,standard,Lightweight Alloy,,,Diamondback Explorer,1,I
 128671833,standard,Reinforced Alloy,,,Diamondback Explorer,1,I
 128671834,standard,Military Grade Composite,,,Diamondback Explorer,1,I
