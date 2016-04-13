@@ -743,8 +743,10 @@ id,category,name,mount,guidance,ship,class,rating,entitlement
 128671336,internal,Bi-Weave Shield Generator,,,,6,C,
 128671337,internal,Bi-Weave Shield Generator,,,,7,C,
 128671338,internal,Bi-Weave Shield Generator,,,,8,C,
+128671339,hardpoint,Advanced Plasma Accelerator,Fixed,,,3,B,powerplay
 128671341,hardpoint,Imperial Hammer Rail Gun,Fixed,,,2,B,powerplay
 128671343,hardpoint,Pacifier Frag-Cannon,Fixed,,,3,C,powerplay
+128671344,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,powerplay
 128671448,hardpoint,Shock Mine Launcher,Fixed,,,1,I,
 128671449,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,powerplay
 128671832,standard,Lightweight Alloy,,,Diamondback Explorer,1,I,
