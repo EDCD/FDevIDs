@@ -19,7 +19,9 @@ id,category,name,average
 128049180,Foods,Grain,193
 128049185,Foods,Synthetic Meat,256
 128049188,Foods,Tea,1469
+128673856,Industrial Materials,C.M.M. Composite,3132
 128672302,Industrial Materials,Ceramic Composites,223
+128673855,Industrial Materials,Insulating Membrane,7837
 128672701,Industrial Materials,Meta-Alloys,89921
 128049197,Industrial Materials,Polymers,159
 128049199,Industrial Materials,Semiconductors,961
@@ -30,14 +32,26 @@ id,category,name,average
 128049212,Legal Drugs,Narcotics,9397
 128049213,Legal Drugs,Tobacco,4831
 128049215,Legal Drugs,Wine,250
+128673859,Machinery,Articulation Motors,4997
 128064028,Machinery,Atmospheric Processors,380
 128672309,Machinery,Building Fabricators,976
 128049222,Machinery,Crop Harvesters,2115
+128673861,Machinery,Emergency Power Cells,1011
+128673866,Machinery,Exhaust Manifold,479
 128672307,Machinery,Geological Equipment,1669
+128673860,Machinery,H.N. Shock Mount,406
+128673868,Machinery,Heatsink Interlink,729
+128673869,Machinery,Magnetic Emitter Coil,199
 128049223,Machinery,Marine Equipment,4050
 128049220,Machinery,Microbial Furnaces,216
 128049221,Machinery,Mineral Extractors,557
+128673870,Machinery,Modular Terminals,695
+128673862,Machinery,Power Converter,246
 128049217,Machinery,Power Generators,484
+128673863,Machinery,Power Grid Assembly,1684
+128673864,Machinery,Power Transfer Conduits,857
+128673865,Machinery,Radiation Baffle,383
+128673867,Machinery,Reinforced Mounting Plate,1074
 128672313,Machinery,Skimmer Components,889
 128672308,Machinery,Thermal Cooling Units,247
 128049218,Machinery,Water Purifiers,266
@@ -60,6 +74,8 @@ id,category,name,average
 128671118,Metals,Osmium,7459
 128049153,Metals,Palladium,13422
 128049152,Metals,Platinum,19646
+128673845,Metals,Praseodymium,7156
+128673847,Metals,Samarium,6330
 128049155,Metals,Silver,4865
 128049171,Metals,Tantalum,4005
 128672299,Metals,Thallium,3767
@@ -68,12 +84,16 @@ id,category,name,average
 128049172,Metals,Uranium,2705
 128049165,Minerals,Bauxite,124
 128049156,Minerals,Bertrandite,2450
+128673846,Minerals,Bromellite,7062
 128049159,Minerals,Coltan,1368
 128672294,Minerals,Cryolite,2306
 128049158,Minerals,Gallite,1876
 128672295,Minerals,Goslarite,917
 128049157,Minerals,Indite,2159
 128049161,Minerals,Lepidolite,571
+128673853,Minerals,Lithium Hydroxide,5646
+128673848,Minerals,Low Temperature Diamond,57445
+128673852,Minerals,Methanol Monohydrate Crystals,2282
 128672296,Minerals,Moissanite,8049
 128668550,Minerals,Painite,35340
 128672297,Minerals,Pyrophyllite,1584
@@ -101,12 +121,17 @@ id,category,name,average
 128049228,Technology,Auto-Fabricators,3788
 128049672,Technology,Bioreducing Lichen,1006
 128049225,Technology,Computer Components,491
+128673875,Technology,Diagnostic Sensor,4337
 128049226,Technology,H.E. Suits,306
+128673874,Technology,Ion Distributor,1133
 128049232,Technology,Land Enrichment Systems,4965
+128673873,Technology,Micro Controllers,3274
 128672310,Technology,Muon Imager,6447
+128673871,Technology,Nanobreakers,639
 128049671,Technology,Resonating Separators,6095
 128049227,Technology,Robotics,1852
 128672311,Technology,Structural Regulators,1749
+128673872,Technology,Telemetry Suite,2080
 128049190,Textiles,Leather,189
 128049191,Textiles,Natural Fabrics,435
 128049193,Textiles,Synthetic Fabrics,200
