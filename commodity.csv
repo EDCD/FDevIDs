@@ -1,104 +1,109 @@
 id,category,name,average
-128049204,Chemicals,Explosives,301
-128049202,Chemicals,Hydrogen Fuel,116
-128049203,Chemicals,Mineral Oil,187
-128672304,Chemicals,Nerve Agents,13542
-128049205,Chemicals,Pesticides,239
-128672305,Chemicals,Surface Stabilisers,476
-128672303,Chemicals,Synthetic Reagents,6843
-128049241,Consumer Items,Clothing,298
-128049240,Consumer Items,Consumer Technology,6909
-128049238,Consumer Items,Domestic Appliances,506
-128672314,Consumer Items,Evacuation Shelter,302
-128049177,Foods,Algae,119
-128049182,Foods,Animal Meat,1293
-128049189,Foods,Coffee,1280
-128049183,Foods,Fish,397
-128049184,Foods,Food Cartridges,108
-128049178,Foods,Fruit And Vegetables,300
-128049180,Foods,Grain,193
-128049185,Foods,Synthetic Meat,256
-128049188,Foods,Tea,1469
-128673856,Industrial Materials,C.M.M. Composite,3132
-128672302,Industrial Materials,Ceramic Composites,223
+128049204,Chemicals,Explosives,261
+128049202,Chemicals,Hydrogen Fuel,110
+128673850,Chemicals,Hydrogen Peroxide,917
+128673851,Chemicals,Liquid Oxygen,263
+128049203,Chemicals,Mineral Oil,181
+128672304,Chemicals,Nerve Agents,13526
+128049205,Chemicals,Pesticides,241
+128672305,Chemicals,Surface Stabilisers,467
+128672303,Chemicals,Synthetic Reagents,6675
+128049166,Chemicals,Water,120
+128049241,Consumer Items,Clothing,285
+128049240,Consumer Items,Consumer Technology,6769
+128049238,Consumer Items,Domestic Appliances,487
+128672314,Consumer Items,Evacuation Shelter,343
+128682048,Consumer Items,Survival Equipment,485
+128049177,Foods,Algae,137
+128049182,Foods,Animal Meat,1292
+128049189,Foods,Coffee,1279
+128049183,Foods,Fish,406
+128049184,Foods,Food Cartridges,105
+128049178,Foods,Fruit And Vegetables,312
+128049180,Foods,Grain,210
+128049185,Foods,Synthetic Meat,271
+128049188,Foods,Tea,1467
+128673856,Industrial Materials,CMM Composite,3132
+128672302,Industrial Materials,Ceramic Composites,232
 128673855,Industrial Materials,Insulating Membrane,7837
-128672701,Industrial Materials,Meta-Alloys,89921
-128049197,Industrial Materials,Polymers,159
-128049199,Industrial Materials,Semiconductors,961
-128049200,Industrial Materials,Superconductors,6776
-128049214,Legal Drugs,Beer,167
-128672306,Legal Drugs,Bootleg Liquor,594
-128049216,Legal Drugs,Liquor,633
-128049212,Legal Drugs,Narcotics,9397
-128049213,Legal Drugs,Tobacco,4831
-128049215,Legal Drugs,Wine,250
+128672701,Industrial Materials,Meta-Alloys,88148
+128049197,Industrial Materials,Polymers,171
+128049199,Industrial Materials,Semiconductors,967
+128049200,Industrial Materials,Superconductors,6609
+128049214,Legal Drugs,Beer,186
+128672306,Legal Drugs,Bootleg Liquor,855
+128049216,Legal Drugs,Liquor,587
+128049212,Legal Drugs,Narcotics,9966
+128049213,Legal Drugs,Tobacco,5035
+128049215,Legal Drugs,Wine,260
 128673859,Machinery,Articulation Motors,4997
-128064028,Machinery,Atmospheric Processors,380
-128672309,Machinery,Building Fabricators,976
-128049222,Machinery,Crop Harvesters,2115
+128064028,Machinery,Atmospheric Processors,357
+128672309,Machinery,Building Fabricators,980
+128049222,Machinery,Crop Harvesters,2021
 128673861,Machinery,Emergency Power Cells,1011
+128673863,Machinery,Energy Grid Assembly,1684
 128673866,Machinery,Exhaust Manifold,479
-128672307,Machinery,Geological Equipment,1669
-128673860,Machinery,H.N. Shock Mount,406
+128672307,Machinery,Geological Equipment,1661
+128673860,Machinery,HN Shock Mount,406
 128673868,Machinery,Heatsink Interlink,729
 128673869,Machinery,Magnetic Emitter Coil,199
-128049223,Machinery,Marine Equipment,4050
-128049220,Machinery,Microbial Furnaces,216
-128049221,Machinery,Mineral Extractors,557
-128673870,Machinery,Modular Terminals,695
+128049223,Machinery,Marine Equipment,3916
+128049220,Machinery,Microbial Furnaces,236
+128049221,Machinery,Mineral Extractors,443
 128673862,Machinery,Power Converter,246
-128049217,Machinery,Power Generators,484
-128673863,Machinery,Power Grid Assembly,1684
+128049217,Machinery,Power Generators,458
 128673864,Machinery,Power Transfer Conduits,857
 128673865,Machinery,Radiation Baffle,383
 128673867,Machinery,Reinforced Mounting Plate,1074
-128672313,Machinery,Skimmer Components,889
-128672308,Machinery,Thermal Cooling Units,247
-128049218,Machinery,Water Purifiers,266
-128049208,Medicines,Agri-Medicines,1037
-128049210,Medicines,Basic Medicines,290
-128049670,Medicines,Combat Stabilisers,2879
-128049209,Medicines,Performance Enhancers,6915
-128049669,Medicines,Progenitor Cells,6848
-128049176,Metals,Aluminium,332
-128049168,Metals,Beryllium,8331
-128672300,Metals,Bismuth,2414
-128049162,Metals,Cobalt,673
-128049175,Metals,Copper,472
-128049170,Metals,Gallium,5232
-128049154,Metals,Gold,9496
+128672313,Machinery,Skimmer Components,859
+128672308,Machinery,Thermal Cooling Units,256
+128049218,Machinery,Water Purifiers,258
+128682046,Medicines,Advanced Medicines,1259
+128049208,Medicines,Agri-Medicines,1038
+128049210,Medicines,Basic Medicines,279
+128049670,Medicines,Combat Stabilisers,3505
+128049209,Medicines,Performance Enhancers,6816
+128049669,Medicines,Progenitor Cells,6779
+128049176,Metals,Aluminium,340
+128049168,Metals,Beryllium,8288
+128672300,Metals,Bismuth,2284
+128049162,Metals,Cobalt,647
+128049175,Metals,Copper,481
+128049170,Metals,Gallium,5135
+128049154,Metals,Gold,9401
 128668549,Metals,Hafnium 178,72244
-128049169,Metals,Indium,5909
-128672298,Metals,Lanthanum,9043
-128049173,Metals,Lithium,1602
-128671118,Metals,Osmium,7459
-128049153,Metals,Palladium,13422
-128049152,Metals,Platinum,19646
+128049169,Metals,Indium,5727
+128672298,Metals,Lanthanum,8766
+128049173,Metals,Lithium,1596
+128671118,Metals,Osmium,7591
+128049153,Metals,Palladium,13298
+128049152,Metals,Platinum,19279
 128673845,Metals,Praseodymium,7156
 128673847,Metals,Samarium,6330
-128049155,Metals,Silver,4865
-128049171,Metals,Tantalum,4005
-128672299,Metals,Thallium,3767
-128672301,Metals,Thorium,11752
+128049155,Metals,Silver,4775
+128049171,Metals,Tantalum,3962
+128672299,Metals,Thallium,3618
+128672301,Metals,Thorium,11513
 128049174,Metals,Titanium,1006
 128049172,Metals,Uranium,2705
-128049165,Minerals,Bauxite,124
-128049156,Minerals,Bertrandite,2450
+128049165,Minerals,Bauxite,120
+128049156,Minerals,Bertrandite,2374
 128673846,Minerals,Bromellite,7062
-128049159,Minerals,Coltan,1368
-128672294,Minerals,Cryolite,2306
-128049158,Minerals,Gallite,1876
-128672295,Minerals,Goslarite,917
-128049157,Minerals,Indite,2159
-128049161,Minerals,Lepidolite,571
+128049159,Minerals,Coltan,1319
+128672294,Minerals,Cryolite,2266
+128049158,Minerals,Gallite,1819
+128672295,Minerals,Goslarite,916
+128049157,Minerals,Indite,2088
+128049161,Minerals,Lepidolite,544
 128673853,Minerals,Lithium Hydroxide,5646
 128673848,Minerals,Low Temperature Diamond,57445
-128673852,Minerals,Methanol Monohydrate Crystals,2282
+128673854,Minerals,Methane Clathrate,629
+128673852,Minerals,Methanol Monohydrate,2282
 128672296,Minerals,Moissanite,8049
-128668550,Minerals,Painite,35340
-128672297,Minerals,Pyrophyllite,1584
-128049163,Minerals,Rutile,301
-128049160,Minerals,Uraninite,866
+128668550,Minerals,Painite,40508
+128672297,Minerals,Pyrophyllite,1565
+128049163,Minerals,Rutile,299
+128049160,Minerals,Uraninite,836
 128066403,NonMarketable,Limpet,102
 128668548,Salvage,AI Relics,144487
 128666756,Salvage,Ancient Artefact,6007
@@ -113,33 +118,36 @@ id,category,name,average
 128666754,Salvage,Trade Data,1704
 128671444,Salvage,Trinkets Of Hidden Fortune,964
 128668547,Salvage,Unknown Artefact,361217
-128667728,Slavery,Imperial Slaves,16065
+128667728,Slavery,Imperial Slaves,15984
 128049243,Slavery,Slaves,10360
-128049231,Technology,Advanced Catalysers,2920
-128049229,Technology,Animal Monitors,316
-128049230,Technology,Aquaponic Systems,299
-128049228,Technology,Auto-Fabricators,3788
-128049672,Technology,Bioreducing Lichen,1006
-128049225,Technology,Computer Components,491
-128673875,Technology,Diagnostic Sensor,4337
-128049226,Technology,H.E. Suits,306
+128049231,Technology,Advanced Catalysers,2947
+128049229,Technology,Animal Monitors,324
+128049230,Technology,Aquaponic Systems,314
+128049228,Technology,Auto-Fabricators,3734
+128049672,Technology,Bioreducing Lichen,998
+128049225,Technology,Computer Components,513
+128049226,Technology,H.E. Suits,340
+128673875,Technology,Hardware Diagnostic Sensor,4337
 128673874,Technology,Ion Distributor,1133
-128049232,Technology,Land Enrichment Systems,4965
+128049232,Technology,Land Enrichment Systems,4887
+128682047,Technology,Medical Diagnostic Equipment,2848
 128673873,Technology,Micro Controllers,3274
 128672310,Technology,Muon Imager,6447
 128673871,Technology,Nanobreakers,639
-128049671,Technology,Resonating Separators,6095
-128049227,Technology,Robotics,1852
-128672311,Technology,Structural Regulators,1749
+128049671,Technology,Resonating Separators,5958
+128049227,Technology,Robotics,1856
+128672311,Technology,Structural Regulators,1791
 128673872,Technology,Telemetry Suite,2080
-128049190,Textiles,Leather,189
-128049191,Textiles,Natural Fabrics,435
-128049193,Textiles,Synthetic Fabrics,200
-128049244,Waste,Biowaste,58
-128049246,Waste,Chemical Waste,108
-128049248,Waste,Scrap,56
-128049234,Weapons,Battle Weapons,6755
+128682044,Textiles,Conductive Fabrics,507
+128049190,Textiles,Leather,205
+128682045,Textiles,Military Grade Fabrics,708
+128049191,Textiles,Natural Fabrics,439
+128049193,Textiles,Synthetic Fabrics,211
+128049244,Waste,Biowaste,63
+128049246,Waste,Chemical Waste,131
+128049248,Waste,Scrap,48
+128049234,Weapons,Battle Weapons,7259
 128672312,Weapons,Landmines,4202
-128049236,Weapons,Non-Lethal Weapons,1826
-128049233,Weapons,Personal Weapons,4242
-128049235,Weapons,Reactive Armour,2089
+128049236,Weapons,Non-Lethal Weapons,1837
+128049233,Weapons,Personal Weapons,4632
+128049235,Weapons,Reactive Armour,2113
