@@ -50,6 +50,7 @@ id,category,name,average
 128049223,Machinery,Marine Equipment,3916
 128049220,Machinery,Microbial Furnaces,236
 128049221,Machinery,Mineral Extractors,443
+128673870,Machinery,Modular Terminals,695
 128673862,Machinery,Power Converter,246
 128049217,Machinery,Power Generators,458
 128673864,Machinery,Power Transfer Bus,857
@@ -118,6 +119,7 @@ id,category,name,average
 128666754,Salvage,Trade Data,1704
 128671444,Salvage,Trinkets Of Hidden Fortune,964
 128668547,Salvage,Unknown Artefact,361217
+128673876,Salvage,Unknown Probe,411003
 128667728,Slavery,Imperial Slaves,15984
 128049243,Slavery,Slaves,10360
 128049231,Technology,Advanced Catalysers,2947
