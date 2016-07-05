@@ -14,6 +14,7 @@ id,category,name,average
 128049238,Consumer Items,Domestic Appliances,487
 128672314,Consumer Items,Evacuation Shelter,343
 128682048,Consumer Items,Survival Equipment,485
+128671444,Consumer Items,Trinkets Of Hidden Fortune,964
 128049177,Foods,Algae,137
 128049182,Foods,Animal Meat,1292
 128049189,Foods,Coffee,1279
@@ -119,7 +120,6 @@ id,category,name,average
 128671443,Salvage,SAP 8 Core Container,
 128666761,Salvage,Technical Blueprints,4506
 128666754,Salvage,Trade Data,1704
-128671444,Salvage,Trinkets Of Hidden Fortune,964
 128668547,Salvage,Unknown Artefact,361217
 128673876,Salvage,Unknown Probe,411003
 128667728,Slavery,Imperial Slaves,15984
