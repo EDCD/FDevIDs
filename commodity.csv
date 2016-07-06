@@ -47,6 +47,7 @@ id,category,name,average
 128672307,Machinery,Geological Equipment,1661
 128673860,Machinery,HN Shock Mount,406
 128673868,Machinery,Heatsink Interlink,729
+128673874,Machinery,Ion Distributor,1133
 128673869,Machinery,Magnetic Emitter Coil,199
 128049223,Machinery,Marine Equipment,3916
 128049220,Machinery,Microbial Furnaces,236
@@ -132,7 +133,6 @@ id,category,name,average
 128049225,Technology,Computer Components,513
 128049226,Technology,H.E. Suits,340
 128673875,Technology,Hardware Diagnostic Sensor,4337
-128673874,Technology,Ion Distributor,1133
 128049232,Technology,Land Enrichment Systems,4887
 128682047,Technology,Medical Diagnostic Equipment,2848
 128673873,Technology,Micro Controllers,3274
@@ -151,7 +151,7 @@ id,category,name,average
 128049246,Waste,Chemical Waste,131
 128049248,Waste,Scrap,48
 128049234,Weapons,Battle Weapons,7259
-128672312,Weapons,Landmines,4202
+128672312,Weapons,Landmines,4602
 128049236,Weapons,Non-Lethal Weapons,1837
 128049233,Weapons,Personal Weapons,4632
 128049235,Weapons,Reactive Armour,2113
