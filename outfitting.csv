@@ -803,6 +803,8 @@ id,category,name,mount,guidance,ship,class,rating,entitlement
 128672292,internal,Planetary Vehicle Hangar,,,,6,H,
 128672293,internal,Planetary Vehicle Hangar,,,,6,G,
 128672317,standard,Planetary Approach Suite,,,,1,I,horizons
+128681641,internal,Corrosion Resistant Cargo Rack,,,,1,E,horizons
+128681992,internal,Corrosion Resistant Cargo Rack,,,,1,F,horizons
 128681994,hardpoint,Beam Laser,Gimballed,,,4,A,
 128681995,hardpoint,Pulse Laser,Gimballed,,,4,A,
 128681996,hardpoint,Multi-Cannon,Gimballed,,,4,A,
