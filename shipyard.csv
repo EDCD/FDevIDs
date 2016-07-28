@@ -1,30 +1,30 @@
-id,name
-128049249,Sidewinder
-128049255,Eagle
-128049261,Hauler
-128049267,Adder
-128049273,Viper MkIII
-128049279,Cobra MkIII
-128049285,Type-6 Transporter
-128049297,Type-7 Transporter
-128049303,Asp Explorer
-128049309,Vulture
-128049315,Imperial Clipper
-128049321,Federal Dropship
-128049327,Orca
-128049333,Type-9 Heavy
-128049339,Python
-128049351,Fer-de-Lance
-128049363,Anaconda
-128049369,Federal Corvette
-128049375,Imperial Cutter
-128671217,Diamondback Scout
-128671223,Imperial Courier
-128671831,Diamondback Explorer
-128672138,Imperial Eagle
-128672145,Federal Assault Ship
-128672152,Federal Gunship
-128672255,Viper MkIV
-128672262,Cobra MkIV
-128672269,Keelback
-128672276,Asp Scout
+id,symbol,name
+128049249,SideWinder,Sidewinder
+128049255,Eagle,Eagle
+128049261,Hauler,Hauler
+128049267,Adder,Adder
+128049273,Viper,Viper MkIII
+128049279,CobraMkIII,Cobra MkIII
+128049285,Type6,Type-6 Transporter
+128049297,Type7,Type-7 Transporter
+128049303,Asp,Asp Explorer
+128049309,Vulture,Vulture
+128049315,Empire_Trader,Imperial Clipper
+128049321,Federation_Dropship,Federal Dropship
+128049327,Orca,Orca
+128049333,Type9,Type-9 Heavy
+128049339,Python,Python
+128049351,FerDeLance,Fer-de-Lance
+128049363,Anaconda,Anaconda
+128049369,Federation_Corvette,Federal Corvette
+128049375,Cutter,Imperial Cutter
+128671217,DiamondBack,Diamondback Scout
+128671223,Empire_Courier,Imperial Courier
+128671831,DiamondBackXL,Diamondback Explorer
+128672138,Empire_Eagle,Imperial Eagle
+128672145,Federation_Dropship_MkII,Federal Assault Ship
+128672152,Federation_Gunship,Federal Gunship
+128672255,Viper_MkIV,Viper MkIV
+128672262,CobraMkIV,Cobra MkIV
+128672269,Independant_Trader,Keelback
+128672276,Asp_Scout,Asp Scout
