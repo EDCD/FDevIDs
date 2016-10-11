@@ -1,4 +1,4 @@
-id
-Terraformable
-Terraformed
-Terraforming
+id,name
+Terraformable,Terraformable
+Terraformed,Terraformed
+Terraforming,Terraforming
