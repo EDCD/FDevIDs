@@ -825,9 +825,9 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128727927,Int_PassengerCabin_Size6_Class2,internal,Business Class Passenger Cabin,,,,6,D,
 128727928,Int_PassengerCabin_Size6_Class3,internal,First Class Passenger Cabin,,,,6,C,
 128727929,Int_PassengerCabin_Size6_Class4,internal,Luxury Class Passenger Cabin,,,,6,B,
-128727930,Int_FighterBay_Size5_Class1,internal,Fighter Bay,,,,5,E,horizons
-128727931,Int_FighterBay_Size6_Class1,internal,Fighter Bay,,,,6,E,horizons
-128727932,Int_FighterBay_Size7_Class1,internal,Fighter Bay,,,,7,E,horizons
+128727930,Int_FighterBay_Size5_Class1,internal,Fighter Hangar,,,,5,D,horizons
+128727931,Int_FighterBay_Size6_Class1,internal,Fighter Hangar,,,,6,D,horizons
+128727932,Int_FighterBay_Size7_Class1,internal,Fighter Hangar,,,,7,D,horizons
 128734690,Int_PassengerCabin_Size2_Class1,internal,Economy Class Passenger Cabin,,,,2,E,
 128734691,Int_PassengerCabin_Size3_Class1,internal,Economy Class Passenger Cabin,,,,3,E,
 128734692,Int_PassengerCabin_Size3_Class2,internal,Business Class Passenger Cabin,,,,3,D,
