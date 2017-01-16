@@ -845,7 +845,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128734694,Int_PassengerCabin_Size5_Class2,internal,Business Class Passenger Cabin,,,,5,D,
 128734695,Int_PassengerCabin_Size5_Class3,internal,First Class Passenger Cabin,,,,5,C,
 128737270,Int_ModuleReinforcement_Size1_Class1,internal,Module Reinforcement Package,,,,1,E,
-128737271,Int_ModuleReinforcement_Size1_Class1,internal,Module Reinforcement Package,,,,1,D,
+128737271,Int_ModuleReinforcement_Size1_Class2,internal,Module Reinforcement Package,,,,1,D,
 128737272,Int_ModuleReinforcement_Size2_Class1,internal,Module Reinforcement Package,,,,2,E,
 128737273,Int_ModuleReinforcement_Size2_Class2,internal,Module Reinforcement Package,,,,2,D,
 128737274,Int_ModuleReinforcement_Size3_Class1,internal,Module Reinforcement Package,,,,3,E,
