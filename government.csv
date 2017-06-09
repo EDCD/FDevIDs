@@ -7,9 +7,9 @@ $government_Corporate;,Corporate
 $government_Democracy;,Democracy
 $government_Dictatorship;,Dictatorship
 $government_Feudal;,Feudal
-,Imperial
+$government_Imperial;,Imperial
 $government_None;,None
 $government_Patronage;,Patronage
 $government_PrisonColony;,Prison Colony
 $government_Theocracy;,Theocracy
-,Workshop
+$government_Engineer;,Workshop
