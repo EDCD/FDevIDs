@@ -1,157 +1,157 @@
-id,category,name,average
-128049204,Chemicals,Explosives,261
-128049202,Chemicals,Hydrogen Fuel,110
-128673850,Chemicals,Hydrogen Peroxide,917
-128673851,Chemicals,Liquid Oxygen,263
-128049203,Chemicals,Mineral Oil,181
-128672304,Chemicals,Nerve Agents,13526
-128049205,Chemicals,Pesticides,241
-128672305,Chemicals,Surface Stabilisers,467
-128672303,Chemicals,Synthetic Reagents,6675
-128049166,Chemicals,Water,120
-128049241,Consumer Items,Clothing,285
-128049240,Consumer Items,Consumer Technology,6769
-128049238,Consumer Items,Domestic Appliances,487
-128672314,Consumer Items,Evacuation Shelter,343
-128682048,Consumer Items,Survival Equipment,485
-128671444,Consumer Items,Trinkets Of Hidden Fortune,964
-128049177,Foods,Algae,137
-128049182,Foods,Animal Meat,1292
-128049189,Foods,Coffee,1279
-128049183,Foods,Fish,406
-128049184,Foods,Food Cartridges,105
-128049178,Foods,Fruit And Vegetables,312
-128049180,Foods,Grain,210
-128049185,Foods,Synthetic Meat,271
-128049188,Foods,Tea,1467
-128673856,Industrial Materials,CMM Composite,3132
-128672302,Industrial Materials,Ceramic Composites,232
-128673855,Industrial Materials,Insulating Membrane,7837
-128672701,Industrial Materials,Meta-Alloys,88148
-128049197,Industrial Materials,Polymers,171
-128049199,Industrial Materials,Semiconductors,967
-128049200,Industrial Materials,Superconductors,6609
-128049214,Legal Drugs,Beer,186
-128672306,Legal Drugs,Bootleg Liquor,855
-128049216,Legal Drugs,Liquor,587
-128049212,Legal Drugs,Narcotics,9966
-128049213,Legal Drugs,Tobacco,5035
-128049215,Legal Drugs,Wine,260
-128673859,Machinery,Articulation Motors,4997
-128064028,Machinery,Atmospheric Processors,357
-128672309,Machinery,Building Fabricators,980
-128049222,Machinery,Crop Harvesters,2021
-128673861,Machinery,Emergency Power Cells,1011
-128673863,Machinery,Energy Grid Assembly,1684
-128673866,Machinery,Exhaust Manifold,479
-128672307,Machinery,Geological Equipment,1661
-128673860,Machinery,HN Shock Mount,406
-128673868,Machinery,Heatsink Interlink,729
-128673874,Machinery,Ion Distributor,1133
-128673869,Machinery,Magnetic Emitter Coil,199
-128049223,Machinery,Marine Equipment,3916
-128049220,Machinery,Microbial Furnaces,236
-128049221,Machinery,Mineral Extractors,443
-128673870,Machinery,Modular Terminals,695
-128673862,Machinery,Power Converter,246
-128049217,Machinery,Power Generators,458
-128673864,Machinery,Power Transfer Bus,857
-128673865,Machinery,Radiation Baffle,383
-128673867,Machinery,Reinforced Mounting Plate,1074
-128672313,Machinery,Skimmer Components,859
-128672308,Machinery,Thermal Cooling Units,256
-128049218,Machinery,Water Purifiers,258
-128682046,Medicines,Advanced Medicines,1259
-128049208,Medicines,Agri-Medicines,1038
-128049210,Medicines,Basic Medicines,279
-128049670,Medicines,Combat Stabilisers,3505
-128049209,Medicines,Performance Enhancers,6816
-128049669,Medicines,Progenitor Cells,6779
-128049176,Metals,Aluminium,340
-128049168,Metals,Beryllium,8288
-128672300,Metals,Bismuth,2284
-128049162,Metals,Cobalt,647
-128049175,Metals,Copper,481
-128049170,Metals,Gallium,5135
-128049154,Metals,Gold,9401
-128668549,Metals,Hafnium 178,72244
-128049169,Metals,Indium,5727
-128672298,Metals,Lanthanum,8766
-128049173,Metals,Lithium,1596
-128671118,Metals,Osmium,7591
-128049153,Metals,Palladium,13298
-128049152,Metals,Platinum,19279
-128673845,Metals,Praseodymium,7156
-128673847,Metals,Samarium,6330
-128049155,Metals,Silver,4775
-128049171,Metals,Tantalum,3962
-128672299,Metals,Thallium,3618
-128672301,Metals,Thorium,11513
-128049174,Metals,Titanium,1006
-128049172,Metals,Uranium,2705
-128049165,Minerals,Bauxite,120
-128049156,Minerals,Bertrandite,2374
-128673846,Minerals,Bromellite,7062
-128049159,Minerals,Coltan,1319
-128672294,Minerals,Cryolite,2266
-128049158,Minerals,Gallite,1819
-128672295,Minerals,Goslarite,916
-128049157,Minerals,Indite,2088
-128672776,Minerals,Jadeite,13474
-128049161,Minerals,Lepidolite,544
-128673853,Minerals,Lithium Hydroxide,5646
-128673848,Minerals,Low Temperature Diamonds,57445
-128673854,Minerals,Methane Clathrate,629
-128673852,Minerals,Methanol Monohydrate,2282
-128672296,Minerals,Moissanite,8273
-128668550,Minerals,Painite,40508
-128672297,Minerals,Pyrophyllite,1565
-128049163,Minerals,Rutile,299
-128672775,Minerals,Taaffeite,20696
-128049160,Minerals,Uraninite,836
-128066403,NonMarketable,Limpet,102
-128668548,Salvage,AI Relics,144487
-128666756,Salvage,Ancient Artefact,6007
-128668551,Salvage,Antiquities,120406
-128666758,Salvage,Experimental Chemicals,2508
-128668552,Salvage,Military Intelligence,57796
-128666755,Salvage,Military Plans,7974
-128666760,Salvage,Prototype Tech,8189
-128666759,Salvage,Rebel Transmissions,2700
-128671443,Salvage,SAP 8 Core Container,
-128666761,Salvage,Technical Blueprints,4506
-128666754,Salvage,Trade Data,1704
-128668547,Salvage,Unknown Artefact,361217
-128673876,Salvage,Unknown Probe,411003
-128667728,Slavery,Imperial Slaves,15984
-128049243,Slavery,Slaves,10360
-128049231,Technology,Advanced Catalysers,2947
-128049229,Technology,Animal Monitors,324
-128049230,Technology,Aquaponic Systems,314
-128049228,Technology,Auto-Fabricators,3734
-128049672,Technology,Bioreducing Lichen,998
-128049225,Technology,Computer Components,513
-128049226,Technology,H.E. Suits,340
-128673875,Technology,Hardware Diagnostic Sensor,4337
-128049232,Technology,Land Enrichment Systems,4887
-128682047,Technology,Medical Diagnostic Equipment,2848
-128673873,Technology,Micro Controllers,3274
-128672310,Technology,Muon Imager,6447
-128673871,Technology,Nanobreakers,639
-128049671,Technology,Resonating Separators,5958
-128049227,Technology,Robotics,1856
-128672311,Technology,Structural Regulators,1791
-128673872,Technology,Telemetry Suite,2080
-128682044,Textiles,Conductive Fabrics,507
-128049190,Textiles,Leather,205
-128682045,Textiles,Military Grade Fabrics,708
-128049191,Textiles,Natural Fabrics,439
-128049193,Textiles,Synthetic Fabrics,211
-128049244,Waste,Biowaste,63
-128049246,Waste,Chemical Waste,131
-128049248,Waste,Scrap,48
-128049234,Weapons,Battle Weapons,7259
-128672312,Weapons,Landmines,4602
-128049236,Weapons,Non-Lethal Weapons,1837
-128049233,Weapons,Personal Weapons,4632
-128049235,Weapons,Reactive Armour,2113
+id,category,name
+128049204,Chemicals,Explosives
+128049202,Chemicals,Hydrogen Fuel
+128673850,Chemicals,Hydrogen Peroxide
+128673851,Chemicals,Liquid Oxygen
+128049203,Chemicals,Mineral Oil
+128672304,Chemicals,Nerve Agents
+128049205,Chemicals,Pesticides
+128672305,Chemicals,Surface Stabilisers
+128672303,Chemicals,Synthetic Reagents
+128049166,Chemicals,Water
+128049241,Consumer Items,Clothing
+128049240,Consumer Items,Consumer Technology
+128049238,Consumer Items,Domestic Appliances
+128672314,Consumer Items,Evacuation Shelter
+128682048,Consumer Items,Survival Equipment
+128671444,Consumer Items,Trinkets Of Hidden Fortune
+128049177,Foods,Algae
+128049182,Foods,Animal Meat
+128049189,Foods,Coffee
+128049183,Foods,Fish
+128049184,Foods,Food Cartridges
+128049178,Foods,Fruit And Vegetables
+128049180,Foods,Grain
+128049185,Foods,Synthetic Meat
+128049188,Foods,Tea
+128673856,Industrial Materials,CMM Composite
+128672302,Industrial Materials,Ceramic Composites
+128673855,Industrial Materials,Insulating Membrane
+128672701,Industrial Materials,Meta-Alloys
+128049197,Industrial Materials,Polymers
+128049199,Industrial Materials,Semiconductors
+128049200,Industrial Materials,Superconductors
+128049214,Legal Drugs,Beer
+128672306,Legal Drugs,Bootleg Liquor
+128049216,Legal Drugs,Liquor
+128049212,Legal Drugs,Narcotics
+128049213,Legal Drugs,Tobacco
+128049215,Legal Drugs,Wine
+128673859,Machinery,Articulation Motors
+128064028,Machinery,Atmospheric Processors
+128672309,Machinery,Building Fabricators
+128049222,Machinery,Crop Harvesters
+128673861,Machinery,Emergency Power Cells
+128673863,Machinery,Energy Grid Assembly
+128673866,Machinery,Exhaust Manifold
+128672307,Machinery,Geological Equipment
+128673860,Machinery,HN Shock Mount
+128673868,Machinery,Heatsink Interlink
+128673874,Machinery,Ion Distributor
+128673869,Machinery,Magnetic Emitter Coil
+128049223,Machinery,Marine Equipment
+128049220,Machinery,Microbial Furnaces
+128049221,Machinery,Mineral Extractors
+128673870,Machinery,Modular Terminals
+128673862,Machinery,Power Converter
+128049217,Machinery,Power Generators
+128673864,Machinery,Power Transfer Bus
+128673865,Machinery,Radiation Baffle
+128673867,Machinery,Reinforced Mounting Plate
+128672313,Machinery,Skimmer Components
+128672308,Machinery,Thermal Cooling Units
+128049218,Machinery,Water Purifiers
+128682046,Medicines,Advanced Medicines
+128049208,Medicines,Agri-Medicines
+128049210,Medicines,Basic Medicines
+128049670,Medicines,Combat Stabilisers
+128049209,Medicines,Performance Enhancers
+128049669,Medicines,Progenitor Cells
+128049176,Metals,Aluminium
+128049168,Metals,Beryllium
+128672300,Metals,Bismuth
+128049162,Metals,Cobalt
+128049175,Metals,Copper
+128049170,Metals,Gallium
+128049154,Metals,Gold
+128668549,Metals,Hafnium 178
+128049169,Metals,Indium
+128672298,Metals,Lanthanum
+128049173,Metals,Lithium
+128671118,Metals,Osmium
+128049153,Metals,Palladium
+128049152,Metals,Platinum
+128673845,Metals,Praseodymium
+128673847,Metals,Samarium
+128049155,Metals,Silver
+128049171,Metals,Tantalum
+128672299,Metals,Thallium
+128672301,Metals,Thorium
+128049174,Metals,Titanium
+128049172,Metals,Uranium
+128049165,Minerals,Bauxite
+128049156,Minerals,Bertrandite
+128673846,Minerals,Bromellite
+128049159,Minerals,Coltan
+128672294,Minerals,Cryolite
+128049158,Minerals,Gallite
+128672295,Minerals,Goslarite
+128049157,Minerals,Indite
+128672776,Minerals,Jadeite
+128049161,Minerals,Lepidolite
+128673853,Minerals,Lithium Hydroxide
+128673848,Minerals,Low Temperature Diamonds
+128673854,Minerals,Methane Clathrate
+128673852,Minerals,Methanol Monohydrate
+128672296,Minerals,Moissanite
+128668550,Minerals,Painite
+128672297,Minerals,Pyrophyllite
+128049163,Minerals,Rutile
+128672775,Minerals,Taaffeite
+128049160,Minerals,Uraninite
+128066403,NonMarketable,Limpet
+128668548,Salvage,AI Relics
+128666756,Salvage,Ancient Artefact
+128668551,Salvage,Antiquities
+128666758,Salvage,Experimental Chemicals
+128668552,Salvage,Military Intelligence
+128666755,Salvage,Military Plans
+128666760,Salvage,Prototype Tech
+128666759,Salvage,Rebel Transmissions
+128671443,Salvage,SAP 8 Core Container
+128666761,Salvage,Technical Blueprints
+128666754,Salvage,Trade Data
+128668547,Salvage,Unknown Artefact
+128673876,Salvage,Unknown Probe
+128667728,Slavery,Imperial Slaves
+128049243,Slavery,Slaves
+128049231,Technology,Advanced Catalysers
+128049229,Technology,Animal Monitors
+128049230,Technology,Aquaponic Systems
+128049228,Technology,Auto-Fabricators
+128049672,Technology,Bioreducing Lichen
+128049225,Technology,Computer Components
+128049226,Technology,H.E. Suits
+128673875,Technology,Hardware Diagnostic Sensor
+128049232,Technology,Land Enrichment Systems
+128682047,Technology,Medical Diagnostic Equipment
+128673873,Technology,Micro Controllers
+128672310,Technology,Muon Imager
+128673871,Technology,Nanobreakers
+128049671,Technology,Resonating Separators
+128049227,Technology,Robotics
+128672311,Technology,Structural Regulators
+128673872,Technology,Telemetry Suite
+128682044,Textiles,Conductive Fabrics
+128049190,Textiles,Leather
+128682045,Textiles,Military Grade Fabrics
+128049191,Textiles,Natural Fabrics
+128049193,Textiles,Synthetic Fabrics
+128049244,Waste,Biowaste
+128049246,Waste,Chemical Waste
+128049248,Waste,Scrap
+128049234,Weapons,Battle Weapons
+128672312,Weapons,Landmines
+128049236,Weapons,Non-Lethal Weapons
+128049233,Weapons,Personal Weapons
+128049235,Weapons,Reactive Armour
