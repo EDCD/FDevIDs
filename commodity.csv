@@ -2,7 +2,7 @@ id,category,name
 128049204,Chemicals,Explosives
 128049202,Chemicals,Hydrogen Fuel
 128673850,Chemicals,Hydrogen Peroxide
-128673851,Chemicals,Liquid Oxygen
+128673851,Chemicals,Liquid oxygen
 128049203,Chemicals,Mineral Oil
 128672304,Chemicals,Nerve Agents
 128049205,Chemicals,Pesticides
@@ -20,7 +20,7 @@ id,category,name
 128049189,Foods,Coffee
 128049183,Foods,Fish
 128049184,Foods,Food Cartridges
-128049178,Foods,Fruit And Vegetables
+128049178,Foods,Fruit and Vegetables
 128049180,Foods,Grain
 128049185,Foods,Synthetic Meat
 128049188,Foods,Tea
@@ -28,6 +28,8 @@ id,category,name
 128672302,Industrial Materials,Ceramic Composites
 128673855,Industrial Materials,Insulating Membrane
 128672701,Industrial Materials,Meta-Alloys
+128673857,Industrial Materials,Micro-weave Cooling Hoses
+128673858,Industrial Materials,Neofabric Insulation
 128049197,Industrial Materials,Polymers
 128049199,Industrial Materials,Semiconductors
 128049200,Industrial Materials,Superconductors
@@ -102,7 +104,7 @@ id,category,name
 128673853,Minerals,Lithium Hydroxide
 128673848,Minerals,Low Temperature Diamonds
 128673854,Minerals,Methane Clathrate
-128673852,Minerals,Methanol Monohydrate
+128673852,Minerals,Methanol Monohydrate Crystals
 128672296,Minerals,Moissanite
 128668550,Minerals,Painite
 128672297,Minerals,Pyrophyllite
@@ -119,6 +121,7 @@ id,category,name
 128666760,Salvage,Prototype Tech
 128666759,Salvage,Rebel Transmissions
 128671443,Salvage,SAP 8 Core Container
+128672137,Salvage,Small Survey Data Cache
 128666761,Salvage,Technical Blueprints
 128666754,Salvage,Trade Data
 128668547,Salvage,Unknown Artefact
