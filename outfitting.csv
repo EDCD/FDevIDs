@@ -884,5 +884,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128777346,Int_DroneControl_Repair_Size7_Class5,internal,Repair Limpet Controller,,,,7,A,
 128788699,Hpt_ATDumbfireMissile_Fixed_Medium,hardpoint,AX Missile Rack,Fixed,,,2,B,horizons
 128788704,Hpt_ATDumbfireMissile_Turret_Medium,hardpoint,AX Missile Rack,Turreted,,,2,B,horizons
-128793115,Hpt_XenoScanner_Basic_Tiny,hardpoint,Xeno Scanner,Basic,,,0,E,horizons
+128793115,Hpt_XenoScanner_Basic_Tiny,utility,Xeno Scanner,,,,0,E,horizons
 128793116,Int_DroneControl_UnkVesselResearch,internal,Research Limpet Controller,,,,1,E,horizons
