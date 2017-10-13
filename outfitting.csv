@@ -888,3 +888,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793059,Hpt_ATMultiCannon_Turret_Medium,hardpoint,AX Multi-Cannon,Turreted,,,2,F,horizons
 128793115,Hpt_XenoScanner_Basic_Tiny,utility,Xeno Scanner,,,,0,E,horizons
 128793116,Int_DroneControl_UnkVesselResearch,internal,Research Limpet Controller,,,,1,E,horizons
+128785626,Hpt_FlakMortar_Fixed_Medium,hardpoint,Remote Release Flak Launcher,Fixed,,,2,B,horizons
+128793058,Hpt_FlakMortar_Turret_Medium,hardpoint,Remote Release Flak Launcher,Turreted,,,2,B,horizons
