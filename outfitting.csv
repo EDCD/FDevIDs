@@ -862,6 +862,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128737279,Int_ModuleReinforcement_Size5_Class2,internal,Module Reinforcement Package,,,,5,D,
 128740819,Hpt_MiningLaser_Turret_Small,hardpoint,Mining Laser,Turreted,,,1,D,
 128740820,Hpt_MiningLaser_Turret_Medium,hardpoint,Mining Laser,Turreted,,,2,D,
+128771884,Hpt_AntiUnknownShutdown_Tiny,utility,Shutdown Field Neutraliser,,,,0,F,horizons
 128777327,Int_DroneControl_Repair_Size1_Class1,internal,Repair Limpet Controller,,,,1,E,
 128777328,Int_DroneControl_Repair_Size1_Class2,internal,Repair Limpet Controller,,,,1,D,
 128777329,Int_DroneControl_Repair_Size1_Class3,internal,Repair Limpet Controller,,,,1,C,
@@ -882,12 +883,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128777344,Int_DroneControl_Repair_Size7_Class3,internal,Repair Limpet Controller,,,,7,C,
 128777345,Int_DroneControl_Repair_Size7_Class4,internal,Repair Limpet Controller,,,,7,B,
 128777346,Int_DroneControl_Repair_Size7_Class5,internal,Repair Limpet Controller,,,,7,A,
+128785626,Hpt_FlakMortar_Fixed_Medium,hardpoint,Remote Release Flak Launcher,Fixed,,,2,B,horizons
 128788699,Hpt_ATDumbfireMissile_Fixed_Medium,hardpoint,AX Missile Rack,Fixed,,,2,B,horizons
 128788701,Hpt_ATMultiCannon_Fixed_Medium,hardpoint,AX Multi-Cannon,Fixed,,,2,E,horizons
 128788704,Hpt_ATDumbfireMissile_Turret_Medium,hardpoint,AX Missile Rack,Turreted,,,2,B,horizons
+128793058,Hpt_FlakMortar_Turret_Medium,hardpoint,Remote Release Flak Launcher,Turreted,,,2,B,horizons
 128793059,Hpt_ATMultiCannon_Turret_Medium,hardpoint,AX Multi-Cannon,Turreted,,,2,F,horizons
 128793115,Hpt_XenoScanner_Basic_Tiny,utility,Xeno Scanner,,,,0,E,horizons
 128793116,Int_DroneControl_UnkVesselResearch,internal,Research Limpet Controller,,,,1,E,horizons
-128785626,Hpt_FlakMortar_Fixed_Medium,hardpoint,Remote Release Flak Launcher,Fixed,,,2,B,horizons
-128793058,Hpt_FlakMortar_Turret_Medium,hardpoint,Remote Release Flak Launcher,Turreted,,,2,B,horizons
-128771884,Hpt_AntiUnknownShutdown_Tiny,utility,Field Neutraliser,,,,0,F,horizons
