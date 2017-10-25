@@ -91,7 +91,7 @@ id,symbol,category,name
 128666760,USSCargoPrototypeTech,Salvage,Prototype Tech
 128666761,USSCargoTechnicalBlueprints,Salvage,Technical Blueprints
 128667728,ImperialSlaves,Slavery,Imperial Slaves
-128668547,UnknownArtifact,Salvage,Unknown Artefact
+128668547,UnknownArtifact,Salvage,Thargoid Sensor
 128668548,AiRelics,Salvage,AI Relics
 128668549,Hafnium178,Metals,Hafnium 178
 128668550,Painite,Minerals,Painite
@@ -177,7 +177,7 @@ id,symbol,category,name
 128673873,MicroControllers,Technology,Micro Controllers
 128673874,IonDistributor,Machinery,Ion Distributor
 128673875,DiagnosticSensor,Technology,Hardware Diagnostic Sensor
-128673876,UnknownArtifact2,Salvage,Unknown Probe
+128673876,UnknownArtifact2,Salvage,Thargoid Probe
 128682044,ConductiveFabrics,Textiles,Conductive Fabrics
 128682045,MilitaryGradeFabrics,Textiles,Military Grade Fabrics
 128682046,AdvancedMedicines,Medicines,Advanced Medicines
@@ -196,3 +196,7 @@ id,symbol,category,name
 128732186,AncientTablet,Salvage,Ancient Tablet
 128732187,AncientUrn,Salvage,Ancient Urn
 128732188,AncientTotem,Salvage,Ancient Totem
+128737287,UnknownResin,Salvage,Thargoid Resin
+128737288,UnknownBiologicalMatter,Salvage,Thargoid Biological Matter
+128737289,UnknownTechnologySamples,Salvage,Thargoid Technology Samples
+128740752,UnknownLink,Salvage,Thargoid Link
