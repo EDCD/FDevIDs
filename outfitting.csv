@@ -883,6 +883,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128777344,Int_DroneControl_Repair_Size7_Class3,internal,Repair Limpet Controller,,,,7,C,
 128777345,Int_DroneControl_Repair_Size7_Class4,internal,Repair Limpet Controller,,,,7,B,
 128777346,Int_DroneControl_Repair_Size7_Class5,internal,Repair Limpet Controller,,,,7,A,
+128785621,Type9_Military_Armour_Grade1,standard,Lightweight Alloy,,,Type-10 Defender,1,I,horizons
+128785622,Type9_Military_Armour_Grade2,standard,Reinforced Alloy,,,Type-10 Defender,1,I,horizons
+128785623,Type9_Military_Armour_Grade3,standard,Military Grade Composite,,,Type-10 Defender,1,I,horizons
+128785624,Type9_Military_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-10 Defender,1,I,horizons
+128785625,Type9_Military_Armour_Reactive,standard,Reactive Surface Composite,,,Type-10 Defender,1,I,horizons
 128785626,Hpt_FlakMortar_Fixed_Medium,hardpoint,Remote Release Flak Launcher,Fixed,,,2,B,horizons
 128788699,Hpt_ATDumbfireMissile_Fixed_Medium,hardpoint,AX Missile Rack,Fixed,Dumbfire,,2,B,horizons
 128788700,Hpt_ATDumbfireMissile_Fixed_Large,hardpoint,AX Missile Rack,Fixed,Dumbfire,,3,A,horizons
