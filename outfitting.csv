@@ -900,7 +900,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793060,Hpt_ATMultiCannon_Turret_Large,hardpoint,AX Multi-Cannon,Turreted,,,3,E,horizons
 128793115,Hpt_XenoScanner_Basic_Tiny,utility,Xeno Scanner,,,,0,E,horizons
 128793116,Int_DroneControl_UnkVesselResearch,internal,Research Limpet Controller,,,,1,E,horizons
-128793941,Int_DroneControl_Decontamination_Size1_Class1,Decontamination Limpet Controller,,,,1,E,horizons
-128793942,Int_DroneControl_Decontamination_Size3_Class1,Decontamination Limpet Controller,,,,3,E,horizons
-128793943,Int_DroneControl_Decontamination_Size5_Class1,Decontamination Limpet Controller,,,,5,E,horizons
-128793944,Int_DroneControl_Decontamination_Size7_Class1,Decontamination Limpet Controller,,,,7,E,horizons
+128793941,Int_DroneControl_Decontamination_Size1_Class1,internal,Decontamination Limpet Controller,,,,1,E,horizons
+128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,horizons
+128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,horizons
+128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,horizons
