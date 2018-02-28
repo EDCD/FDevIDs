@@ -904,3 +904,12 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,horizons
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,horizons
 128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,horizons
+128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,horizons
+128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,horizons
+128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,horizons
+128841594,Int_DroneControl_Recon_Size7_Class1,internal,Recon Limpet Controller,,,,7,E,horizons
+128816576,TypeX_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Chieftain,1,I,horizons
+128816577,TypeX_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Chieftain,1,I,horizons
+128816578,TypeX_Armour_Grade3,standard,Military Grade Composite,,,Alliance Chieftain,1,I,horizons
+128816579,TypeX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Chieftain,1,I,horizons
+128816580,TypeX_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Chieftain,1,I,horizons
