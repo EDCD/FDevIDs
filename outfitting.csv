@@ -904,12 +904,23 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,horizons
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,horizons
 128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,horizons
-128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,horizons
-128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,horizons
-128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,horizons
-128841594,Int_DroneControl_Recon_Size7_Class1,internal,Recon Limpet Controller,,,,7,E,horizons
 128816576,TypeX_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Chieftain,1,I,horizons
 128816577,TypeX_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Chieftain,1,I,horizons
 128816578,TypeX_Armour_Grade3,standard,Military Grade Composite,,,Alliance Chieftain,1,I,horizons
 128816579,TypeX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Chieftain,1,I,horizons
 128816580,TypeX_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Chieftain,1,I,horizons
+128833687,Hpt_Guardian_GaussCannon_Fixed_Medium,Guardian Gauss Cannon,,Fixed,,,2,B,horizons
+128833944,Int_CorrosionProofCargoRack_Size4_Class1,Corrosion Resistant Cargo Rack,,,,,4,E,horizons
+128833988,Int_GuardianPowerplant_Size2,Guardian Power Plant,,,,,2,A,horizons
+128833989,Int_GuardianPowerplant_Size3,Guardian Power Plant,,,,,3,A,horizons
+128833990,Int_GuardianPowerplant_Size4,Guardian Power Plant,,,,,4,A,horizons
+128833991,Int_GuardianPowerplant_Size5,Guardian Power Plant,,,,,5,A,horizons
+128833992,Int_GuardianPowerplant_Size6,Guardian Power Plant,,,,,6,A,horizons
+128833993,Int_GuardianPowerplant_Size7,Guardian Power Plant,,,,,7,A,horizons
+128833994,Int_GuardianPowerplant_Size8,Guardian Power Plant,,,,,8,A,horizons
+128833998,Hpt_Guardian_PlasmaLauncher_Fixed_Medium,Guardian Plasma Charger,,Fixed,,,2,B,horizons
+128833999,Hpt_Guardian_PlasmaLauncher_Turret_Medium,Guardian Plasma Charger,,Turreted,,,2,E,horizons
+128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,
+128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,
+128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,
+128841594,Int_DroneControl_Recon_Size7_Class1,internal,Recon Limpet Controller,,,,7,E,
