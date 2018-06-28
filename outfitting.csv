@@ -904,11 +904,21 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,horizons
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,horizons
 128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,horizons
+128816569,Krait_Mkii_Armour_Grade1,standard,Lightweight Alloy,,,Krait MkII,1,I,horizons
+128816570,Krait_Mkii_Armour_Grade2,standard,Reinforced Alloy,,,Krait MkII,1,I,horizons
+128816571,Krait_Mkii_Armour_Grade3,standard,Military Grade Composite,,,Krait MkII,1,I,horizons
+128816572,Krait_Mkii_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait MkII,1,I,horizons
+128816573,Krait_Mkii_Armour_Reactive,standard,Reactive Surface Composite,,,Krait MkII,1,I,horizons
 128816576,TypeX_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Chieftain,1,I,horizons
 128816577,TypeX_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Chieftain,1,I,horizons
 128816578,TypeX_Armour_Grade3,standard,Military Grade Composite,,,Alliance Chieftain,1,I,horizons
 128816579,TypeX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Chieftain,1,I,horizons
 128816580,TypeX_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Chieftain,1,I,horizons
+128816590,TypeX_3_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Challenger,1,I,horizons
+128816591,TypeX_3_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Challenger,1,I,horizons
+128816592,TypeX_3_Armour_Grade3,standard,Military Grade Composite,,,Alliance Challenger,1,I,horizons
+128816593,TypeX_3_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Challenger,1,I,horizons
+128816594,TypeX_3_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Challenger,1,I,horizons
 128833687,Hpt_Guardian_GaussCannon_Fixed_Medium,Guardian Gauss Cannon,,Fixed,,,2,B,horizons
 128833944,Int_CorrosionProofCargoRack_Size4_Class1,Corrosion Resistant Cargo Rack,,,,,4,E,horizons
 128833988,Int_GuardianPowerplant_Size2,Guardian Power Plant,,,,,2,A,horizons
@@ -920,6 +930,15 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128833994,Int_GuardianPowerplant_Size8,Guardian Power Plant,,,,,8,A,horizons
 128833998,Hpt_Guardian_PlasmaLauncher_Fixed_Medium,Guardian Plasma Charger,,Fixed,,,2,B,horizons
 128833999,Hpt_Guardian_PlasmaLauncher_Turret_Medium,Guardian Plasma Charger,,Turreted,,,2,E,horizons
+128834000,Hpt_Guardian_ShardCannon_Fixed_Medium,Shard Cannon,,Fixed,,,2,A,horizons
+128834001,Hpt_Guardian_ShardCannon_Turret_Medium,Shard Cannon,,Turreted,,,2,A,horizons
+128834778,Hpt_Guardian_ShardCannon_Fixed_Large,Shard Cannon,,Fixed,,,3,,horizons
+128834779,Hpt_Guardian_ShardCannon_Turret_Large,Shard Cannon,,Turreted,,,3,,horizons
+128834780,Hpt_PlasmaShockCannon_Fixed_Large,Shock Cannon,,Fixed,,,3,,horizons
+128834781,Hpt_PlasmaShockCannon_Gimbal_Large,Shock Cannon,,Gimballed,,,3,,horizons
+128834782,Hpt_PlasmaShockCannon_Turret_Large,Shock Cannon,,Turreted,,,3,,horizons
+128834783,Hpt_Guardian_PlasmaLauncher_Fixed_Large,,Fixed,,,3,,horizons
+128834784,Hpt_Guardian_PlasmaLauncher_Turret_Large,,Turreted,,,3,,horizons
 128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,
 128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,
 128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,
