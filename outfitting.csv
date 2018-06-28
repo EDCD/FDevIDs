@@ -932,13 +932,13 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128833999,Hpt_Guardian_PlasmaLauncher_Turret_Medium,Guardian Plasma Charger,,Turreted,,,2,E,horizons
 128834000,Hpt_Guardian_ShardCannon_Fixed_Medium,Shard Cannon,,Fixed,,,2,A,horizons
 128834001,Hpt_Guardian_ShardCannon_Turret_Medium,Shard Cannon,,Turreted,,,2,A,horizons
-128834778,Hpt_Guardian_ShardCannon_Fixed_Large,Shard Cannon,,Fixed,,,,,horizons
-128834779,Hpt_Guardian_ShardCannon_Turret_Large,Shard Cannon,,Turreted,,,,,horizons
-128834780,Hpt_PlasmaShockCannon_Fixed_Large,Shock Cannon,,Fixed,,,,,horizons
-128834781,Hpt_PlasmaShockCannon_Gimbal_Large,Shock Cannon,,Gimballed,,,,,horizons
-128834782,Hpt_PlasmaShockCannon_Turret_Large,Shock Cannon,,Turreted,,,,,horizons
-128834783,Hpt_Guardian_PlasmaLauncher_Fixed_Large,,Fixed,,,,,horizons
-128834784,Hpt_Guardian_PlasmaLauncher_Turret_Large,,Turreted,,,,,horizons
+128834778,Hpt_Guardian_ShardCannon_Fixed_Large,Shard Cannon,,Fixed,,,3,,horizons
+128834779,Hpt_Guardian_ShardCannon_Turret_Large,Shard Cannon,,Turreted,,,3,,horizons
+128834780,Hpt_PlasmaShockCannon_Fixed_Large,Shock Cannon,,Fixed,,,3,,horizons
+128834781,Hpt_PlasmaShockCannon_Gimbal_Large,Shock Cannon,,Gimballed,,,3,,horizons
+128834782,Hpt_PlasmaShockCannon_Turret_Large,Shock Cannon,,Turreted,,,3,,horizons
+128834783,Hpt_Guardian_PlasmaLauncher_Fixed_Large,,Fixed,,,3,,horizons
+128834784,Hpt_Guardian_PlasmaLauncher_Turret_Large,,Turreted,,,3,,horizons
 128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,
 128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,
 128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,
