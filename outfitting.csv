@@ -900,16 +900,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793060,Hpt_ATMultiCannon_Turret_Large,hardpoint,AX Multi-Cannon,Turreted,,,3,E,horizons
 128793115,Hpt_XenoScanner_Basic_Tiny,utility,Xeno Scanner,,,,0,E,horizons
 128793116,Int_DroneControl_UnkVesselResearch,internal,Research Limpet Controller,,,,1,E,horizons
-128793117,Int_MetaAlloyHullReinforcement_Size1_Class1,internal,Meta Alloy Hull Reinforcement,,,1,E,horizons
-128793118,Int_MetaAlloyHullReinforcement_Size1_Class2,internal,Meta Alloy Hull Reinforcement,,,1,D,horizons
-128793119,Int_MetaAlloyHullReinforcement_Size2_Class1,internal,Meta Alloy Hull Reinforcement,,,2,E,horizons
-128793120,Int_MetaAlloyHullReinforcement_Size2_Class2,internal,Meta Alloy Hull Reinforcement,,,2,D,horizons
-128793121,Int_MetaAlloyHullReinforcement_Size3_Class1,internal,Meta Alloy Hull Reinforcement,,,3,E,horizons
-128793122,Int_MetaAlloyHullReinforcement_Size3_Class2,internal,Meta Alloy Hull Reinforcement,,,3,D,horizons
-128793123,Int_MetaAlloyHullReinforcement_Size4_Class1,internal,Meta Alloy Hull Reinforcement,,,4,E,horizons
-128793124,Int_MetaAlloyHullReinforcement_Size4_Class2,internal,Meta Alloy Hull Reinforcement,,,4,D,horizons
-128793125,Int_MetaAlloyHullReinforcement_Size5_Class1,internal,Meta Alloy Hull Reinforcement,,,5,E,horizons
-128793126,Int_MetaAlloyHullReinforcement_Size5_Class2,internal,Meta Alloy Hull Reinforcement,,,5,D,horizons
+128793117,Int_MetaAlloyHullReinforcement_Size1_Class1,internal,Meta Alloy Hull Reinforcement,,,,1,E,horizons
+128793118,Int_MetaAlloyHullReinforcement_Size1_Class2,internal,Meta Alloy Hull Reinforcement,,,,1,D,horizons
+128793119,Int_MetaAlloyHullReinforcement_Size2_Class1,internal,Meta Alloy Hull Reinforcement,,,,2,E,horizons
+128793120,Int_MetaAlloyHullReinforcement_Size2_Class2,internal,Meta Alloy Hull Reinforcement,,,,2,D,horizons
+128793121,Int_MetaAlloyHullReinforcement_Size3_Class1,internal,Meta Alloy Hull Reinforcement,,,,3,E,horizons
+128793122,Int_MetaAlloyHullReinforcement_Size3_Class2,internal,Meta Alloy Hull Reinforcement,,,,3,D,horizons
+128793123,Int_MetaAlloyHullReinforcement_Size4_Class1,internal,Meta Alloy Hull Reinforcement,,,,4,E,horizons
+128793124,Int_MetaAlloyHullReinforcement_Size4_Class2,internal,Meta Alloy Hull Reinforcement,,,,4,D,horizons
+128793125,Int_MetaAlloyHullReinforcement_Size5_Class1,internal,Meta Alloy Hull Reinforcement,,,,5,E,horizons
+128793126,Int_MetaAlloyHullReinforcement_Size5_Class2,internal,Meta Alloy Hull Reinforcement,,,,5,D,horizons
 128793941,Int_DroneControl_Decontamination_Size1_Class1,internal,Decontamination Limpet Controller,,,,1,E,horizons
 128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,horizons
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,horizons
@@ -981,16 +981,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128833992,Int_GuardianPowerplant_Size6,internal,Guardian Hybrid Power Plant,,,,6,A,horizons
 128833993,Int_GuardianPowerplant_Size7,internal,Guardian Hybrid Power Plant,,,,7,A,horizons
 128833994,Int_GuardianPowerplant_Size8,internal,Guardian Hybrid Power Plant,,,,8,A,horizons
-128833995,Hpt_CausticMissile_Fixed_Medium,hardpoint,Enzyme Missile Rack,,,2,B,horizons
-128833996,Hpt_FlechetteLauncher_Fixed_Medium,hardpoint,Remote Release Flechette Launcher,,,2,B,horizons
-128833997,Hpt_FlechetteLauncher_Turret_Medium,hardpoint,Remote Release Flechette Launcher,,,2,B,horizons
+128833995,Hpt_CausticMissile_Fixed_Medium,hardpoint,Enzyme Missile Rack,Fixed,,,2,B,horizons
+128833996,Hpt_FlechetteLauncher_Fixed_Medium,hardpoint,Remote Release Flechette Launcher,,,,2,B,horizons
+128833997,Hpt_FlechetteLauncher_Turret_Medium,hardpoint,Remote Release Flechette Launcher,,,,2,B,horizons
 128833998,Hpt_Guardian_PlasmaLauncher_Fixed_Medium,hardpoint,Guardian Plasma Charger,Fixed,,,2,B,horizons
 128833999,Hpt_Guardian_PlasmaLauncher_Turret_Medium,hardpoint,Guardian Plasma Charger,Turreted,,,2,E,horizons
 128834000,Hpt_Guardian_ShardCannon_Fixed_Medium,hardpoint,Guardian Shard Cannon,Fixed,,,2,A,horizons
 128834001,Hpt_Guardian_ShardCannon_Turret_medium,hardpoint,Guardian Shard Cannon,Turreted,,,2,D,horizons
-128834002,Hpt_PlasmaShockCannon_Fixed_Medium,hardpoint,Shock Cannon,,,2,D,horizons
-128834003,Hpt_PlasmaShockCannon_Gimbal_Medium,hardpoint,Shock Cannon,,,2,D,horizons
-128834004,Hpt_PlasmaShockCannon_Turret_Medium,hardpoint,Shock Cannon,,,2,E,horizons
+128834002,Hpt_PlasmaShockCannon_Fixed_Medium,hardpoint,Shock Cannon,,,,2,D,horizons
+128834003,Hpt_PlasmaShockCannon_Gimbal_Medium,hardpoint,Shock Cannon,,,,2,D,horizons
+128834004,Hpt_PlasmaShockCannon_Turret_Medium,hardpoint,Shock Cannon,,,,2,E,horizons
 128834778,Hpt_Guardian_ShardCannon_Fixed_Large,hardpoint,Guardian Shard Cannon,Fixed,,,3,C,horizons
 128834779,Hpt_Guardian_ShardCannon_Turret_Large,hardpoint,Guardian Shard Cannon,Turreted,,,3,D,horizons
 128834780,Hpt_PlasmaShockCannon_Fixed_Large,hardpoint,Shock Cannon,Fixed,,,3,C,horizons
