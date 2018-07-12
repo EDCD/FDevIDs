@@ -779,7 +779,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Multi-Cannon,Fixed,,,1,F,powerplay
 128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,powerplay
 128671448,Hpt_MineLauncher_Fixed_Small_Impulse,hardpoint,Shock Mine Launcher,Fixed,,,1,I,
-128671449,Hpt_PulseLaserBurst_Fixed_Small_Scatter,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,powerplay
+128671449,Hpt_PulseLaserBurst_Fixed_Small_Scatter,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100100
 128671832,DiamondBackXL_Armour_Grade1,standard,Lightweight Alloy,,,Diamondback Explorer,1,I,
 128671833,DiamondBackXL_Armour_Grade2,standard,Reinforced Alloy,,,Diamondback Explorer,1,I,
 128671834,DiamondBackXL_Armour_Grade3,standard,Military Grade Composite,,,Diamondback Explorer,1,I,
