@@ -984,16 +984,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128833992,Int_GuardianPowerplant_Size6,internal,Guardian Hybrid Power Plant,,,,6,A,horizons
 128833993,Int_GuardianPowerplant_Size7,internal,Guardian Hybrid Power Plant,,,,7,A,horizons
 128833994,Int_GuardianPowerplant_Size8,internal,Guardian Hybrid Power Plant,,,,8,A,horizons
-128833995,Hpt_CausticMissile_Fixed_Medium,hardpoint,Enzyme Missile Rack,Fixed,,,2,B,horizons
-128833996,Hpt_FlechetteLauncher_Fixed_Medium,hardpoint,Remote Release Flechette Launcher,,,,2,B,horizons
-128833997,Hpt_FlechetteLauncher_Turret_Medium,hardpoint,Remote Release Flechette Launcher,,,,2,B,horizons
+128833995,Hpt_CausticMissile_Fixed_Medium,hardpoint,Enzyme Missile Rack,Fixed,Dumbfire,,2,B,horizons
+128833996,Hpt_FlechetteLauncher_Fixed_Medium,hardpoint,Remote Release Flechette Launcher,Fixed,,,2,B,horizons
+128833997,Hpt_FlechetteLauncher_Turret_Medium,hardpoint,Remote Release Flechette Launcher,Turreted,,,2,B,horizons
 128833998,Hpt_Guardian_PlasmaLauncher_Fixed_Medium,hardpoint,Guardian Plasma Charger,Fixed,,,2,B,horizons
 128833999,Hpt_Guardian_PlasmaLauncher_Turret_Medium,hardpoint,Guardian Plasma Charger,Turreted,,,2,E,horizons
 128834000,Hpt_Guardian_ShardCannon_Fixed_Medium,hardpoint,Guardian Shard Cannon,Fixed,,,2,A,horizons
 128834001,Hpt_Guardian_ShardCannon_Turret_medium,hardpoint,Guardian Shard Cannon,Turreted,,,2,D,horizons
-128834002,Hpt_PlasmaShockCannon_Fixed_Medium,hardpoint,Shock Cannon,,,,2,D,horizons
-128834003,Hpt_PlasmaShockCannon_Gimbal_Medium,hardpoint,Shock Cannon,,,,2,D,horizons
-128834004,Hpt_PlasmaShockCannon_Turret_Medium,hardpoint,Shock Cannon,,,,2,E,horizons
+128834002,Hpt_PlasmaShockCannon_Fixed_Medium,hardpoint,Shock Cannon,Fixed,,,2,D,horizons
+128834003,Hpt_PlasmaShockCannon_Gimbal_Medium,hardpoint,Shock Cannon,Gimballed,,,2,D,horizons
+128834004,Hpt_PlasmaShockCannon_Turret_Medium,hardpoint,Shock Cannon,Turreted,,,2,E,horizons
 128834778,Hpt_Guardian_ShardCannon_Fixed_Large,hardpoint,Guardian Shard Cannon,Fixed,,,3,C,horizons
 128834779,Hpt_Guardian_ShardCannon_Turret_Large,hardpoint,Guardian Shard Cannon,Turreted,,,3,D,horizons
 128834780,Hpt_PlasmaShockCannon_Fixed_Large,hardpoint,Shock Cannon,Fixed,,,3,C,horizons
