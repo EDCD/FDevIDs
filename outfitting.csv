@@ -160,17 +160,20 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128049461,Hpt_MultiCannon_Gimbal_Large,hardpoint,Multi-Cannon,Gimballed,,,3,C,
 128049462,Hpt_MultiCannon_Turret_Small,hardpoint,Multi-Cannon,Turreted,,,1,G,
 128049463,Hpt_MultiCannon_Turret_Medium,hardpoint,Multi-Cannon,Turreted,,,2,F,
+128049464,Hpt_MultiCannon_Turret_Large,hardpoint,Multi-Cannon,Turreted,,,3,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128049465,Hpt_PlasmaAccelerator_Fixed_Medium,hardpoint,Plasma Accelerator,Fixed,,,2,C,
 128049466,Hpt_PlasmaAccelerator_Fixed_Large,hardpoint,Plasma Accelerator,Fixed,,,3,B,
 128049467,Hpt_PlasmaAccelerator_Fixed_Huge,hardpoint,Plasma Accelerator,Fixed,,,4,A,
 128049488,Hpt_Railgun_Fixed_Small,hardpoint,Rail Gun,Fixed,,,1,D,
 128049489,Hpt_Railgun_Fixed_Medium,hardpoint,Rail Gun,Fixed,,,2,B,
-128049492,Hpt_BasicMissileRack_Fixed_Small,hardpoint,Missile Rack,Fixed,Seeker,,1,B,
-128049493,Hpt_BasicMissileRack_Fixed_Medium,hardpoint,Missile Rack,Fixed,Seeker,,2,B,
+128049492,Hpt_BasicMissileRack_Fixed_Small,hardpoint,Seeker Missile Rack,Fixed,Seeker,,1,B,
+128049493,Hpt_BasicMissileRack_Fixed_Medium,hardpoint,Seeker Missile Rack,Fixed,Seeker,,2,B,
+128049494,Hpt_BasicMissileRack_Fixed_Large,hardpoint,Seeker Missile Rack,Fixed,Seeker,,3,A,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128049500,Hpt_MineLauncher_Fixed_Small,hardpoint,Mine Launcher,Fixed,,,1,I,
 128049501,Hpt_MineLauncher_Fixed_Medium,hardpoint,Mine Launcher,Fixed,,,2,I,
 128049509,Hpt_AdvancedTorpPylon_Fixed_Small,hardpoint,Torpedo Pylon,Fixed,Seeker,,1,I,
 128049510,Hpt_AdvancedTorpPylon_Fixed_Medium,hardpoint,Torpedo Pylon,Fixed,Seeker,,2,I,
+128049511,Hpt_AdvancedTorpPylon_Fixed_Large,hardpoint,Torpedo Pylon,Fixed,Seeker,,3,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128049513,Hpt_ChaffLauncher_Tiny,utility,Chaff Launcher,,,,0,I,
 128049516,Hpt_ElectronicCountermeasure_Tiny,utility,Electronic Countermeasure,,,,0,F,
 128049519,Hpt_HeatSinkLauncher_Turret_Tiny,utility,Heat Sink Launcher,,,,0,I,
@@ -927,6 +930,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128816578,TypeX_Armour_Grade3,standard,Military Grade Composite,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816579,TypeX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816580,TypeX_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816583,TypeX_2_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Crusader,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816584,TypeX_2_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Crusader,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816585,TypeX_2_Armour_Grade3,standard,Military Grade Composite,,,Alliance Crusader,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816586,TypeX_2_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Crusader,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816587,TypeX_2_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Crusader,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816590,TypeX_3_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Challenger,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816591,TypeX_3_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Challenger,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816592,TypeX_3_Armour_Grade3,standard,Military Grade Composite,,,Alliance Challenger,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
@@ -1005,3 +1013,12 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,
 128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,
 128841594,Int_DroneControl_Recon_Size7_Class1,internal,Recon Limpet Controller,,,,7,E,
+128891602,Hpt_DumbfireMissileRack_Fixed_Large,hardpoint,Missile Rack,Fixed,Dumbfire,,3,A,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128891603,Hpt_PlasmaShockCannon_Turret_Small,hardpoint,Shock Cannon,Turreted,,,1,F,ELITE_HORIZONS_V_PLASMASHOCK_TURRET_SMALL
+128891604,Hpt_PlasmaShockCannon_Gimbal_Small,hardpoint,Shock Cannon,Gimballed,,,1,E,ELITE_HORIZONS_V_PLASMASHOCK_GIMBAL_SMALL
+128891605,Hpt_PlasmaShockCannon_Fixed_Small,hardpoint,Shock Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_PLASMASHOCK_FIXED_SMALL
+128891606,Hpt_Guardian_PlasmaLauncher_Turret_Small,hardpoint,Guardian Plasma Charger,Turreted,,,1,F,ELITE_HORIZONS_V_GUARDIAN_PLASMA_TURRET_SMALL
+128891607,Hpt_Guardian_PlasmaLauncher_Fixed_Small,hardpoint,Guardian Plasma Charger,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_PLASMA_FIXED_SMALL
+128891608,Hpt_Guardian_ShardCannon_Turret_Small,hardpoint,Guardian Shard Cannon,Turreted,,,1,F,ELITE_HORIZONS_V_GUARDIAN_SHARD_TURRET_SMALL
+128891609,Hpt_Guardian_ShardCannon_Fixed_Small,hardpoint,Guardian Shard Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_SHARD_FIXED_SMALL
+128891610,Hpt_Guardian_GaussCannon_Fixed_Small,hardpoint,Guardian Gauss Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_GAUSS_FIXED_SMALL
