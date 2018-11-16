@@ -1022,3 +1022,13 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128891608,Hpt_Guardian_ShardCannon_Turret_Small,hardpoint,Guardian Shard Cannon,Turreted,,,1,F,ELITE_HORIZONS_V_GUARDIAN_SHARD_TURRET_SMALL
 128891609,Hpt_Guardian_ShardCannon_Fixed_Small,hardpoint,Guardian Shard Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_SHARD_FIXED_SMALL
 128891610,Hpt_Guardian_GaussCannon_Fixed_Small,hardpoint,Guardian Gauss Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_GAUSS_FIXED_SMALL
+128839283,Krait_Light_Armour_Grade1,standard,Lightweight Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839284,Krait_Light_Armour_Grade2,standard,Reinforced Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839285,Krait_Light_Armour_Grade3,standard,Military Grade Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839286,Krait_Light_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839287,Krait_Light_Armour_Reactive,standard,Reactive Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915981,Mamba_Armour_Grade1,standard,Lightweight Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915982,Mamba_Armour_Grade2,standard,Reinforced Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915983,Mamba_Armour_Grade3,standard,Military Grade Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915984,Mamba_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915985,Mamba_Armour_Reactive,standard,Reactive Surface Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
