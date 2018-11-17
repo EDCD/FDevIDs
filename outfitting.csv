@@ -1010,6 +1010,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128834783,Hpt_Guardian_PlasmaLauncher_Fixed_Large,hardpoint,Guardian Plasma Charger,Fixed,,,3,C,ELITE_HORIZONS_V_GUARDIAN_PLASMA_FIXED_LARGE
 128834784,Hpt_Guardian_PlasmaLauncher_Turret_Large,hardpoint,Guardian Plasma Charger,Turreted,,,3,D,ELITE_HORIZONS_V_GUARDIAN_PLASMA_TURRET_LARGE
 128837858,Int_DroneControl_Recon_Size1_Class1,internal,Recon Limpet Controller,,,,1,E,
+128839283,Krait_Light_Armour_Grade1,standard,Lightweight Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839284,Krait_Light_Armour_Grade2,standard,Reinforced Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839285,Krait_Light_Armour_Grade3,standard,Military Grade Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839286,Krait_Light_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128839287,Krait_Light_Armour_Reactive,standard,Reactive Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128841592,Int_DroneControl_Recon_Size3_Class1,internal,Recon Limpet Controller,,,,3,E,
 128841593,Int_DroneControl_Recon_Size5_Class1,internal,Recon Limpet Controller,,,,5,E,
 128841594,Int_DroneControl_Recon_Size7_Class1,internal,Recon Limpet Controller,,,,7,E,
@@ -1022,11 +1027,19 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128891608,Hpt_Guardian_ShardCannon_Turret_Small,hardpoint,Guardian Shard Cannon,Turreted,,,1,F,ELITE_HORIZONS_V_GUARDIAN_SHARD_TURRET_SMALL
 128891609,Hpt_Guardian_ShardCannon_Fixed_Small,hardpoint,Guardian Shard Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_SHARD_FIXED_SMALL
 128891610,Hpt_Guardian_GaussCannon_Fixed_Small,hardpoint,Guardian Gauss Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_GAUSS_FIXED_SMALL
-128839283,Krait_Light_Armour_Grade1,standard,Lightweight Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128839284,Krait_Light_Armour_Grade2,standard,Reinforced Alloy,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128839285,Krait_Light_Armour_Grade3,standard,Military Grade Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128839286,Krait_Light_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128839287,Krait_Light_Armour_Reactive,standard,Reactive Surface Composite,,,Krait Phantom,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915454,Hpt_Mining_Subsurfdispmisle_Fixed_Small,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,1,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915455,Hpt_Mining_Subsurfdispmisle_Turret_Small,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,1,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915456,Hpt_Mining_Subsurfdispmisle_Fixed_Medium,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915457,Hpt_Mining_Subsurfdispmisle_Turret_Medium,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915458,Hpt_Mining_Abrblstr_Fixed_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915459,Hpt_Mining_Abrblstr_Turret_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915460,Hpt_Mining_Seismchrgwarhd_Fixed_Medium,hardpoint,Seismic Charge Launcher,Fixed,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915461,Hpt_Mining_Seismchrgwarhd_Turret_Medium,hardpoint,Seismic Charge Launcher,Turreted,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915718,Hpt_Mrascanner_Size0_Class1,utility,Pulse Wave Analyser,,,,0,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915719,Hpt_Mrascanner_Size0_Class2,utility,Pulse Wave Analyser,,,,0,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915720,Hpt_Mrascanner_Size0_Class3,utility,Pulse Wave Analyser,,,,0,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915721,Hpt_Mrascanner_Size0_Class4,utility,Pulse Wave Analyser,,,,0,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915722,Hpt_Mrascanner_Size0_Class5,utility,Pulse Wave Analyser,,,,0,A,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915981,Mamba_Armour_Grade1,standard,Lightweight Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915982,Mamba_Armour_Grade2,standard,Reinforced Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915983,Mamba_Armour_Grade3,standard,Military Grade Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
