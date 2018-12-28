@@ -1035,11 +1035,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128915459,Hpt_Mining_Abrblstr_Turret_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915460,Hpt_Mining_Seismchrgwarhd_Fixed_Medium,hardpoint,Seismic Charge Launcher,Fixed,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915461,Hpt_Mining_Seismchrgwarhd_Turret_Medium,hardpoint,Seismic Charge Launcher,Turreted,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915718,Hpt_Mrascanner_Size0_Class1,utility,Pulse Wave Analyser,,,,0,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915719,Hpt_Mrascanner_Size0_Class2,utility,Pulse Wave Analyser,,,,0,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915720,Hpt_Mrascanner_Size0_Class3,utility,Pulse Wave Analyser,,,,0,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915721,Hpt_Mrascanner_Size0_Class4,utility,Pulse Wave Analyser,,,,0,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915722,Hpt_Mrascanner_Size0_Class5,utility,Pulse Wave Analyser,,,,0,A,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915718,Hpt_MRAScanner_Size0_Class1,utility,Pulse Wave Analyser,,,,0,E,
+128915719,Hpt_MRAScanner_Size0_Class2,utility,Pulse Wave Analyser,,,,0,D,
+128915720,Hpt_MRAScanner_Size0_Class3,utility,Pulse Wave Analyser,,,,0,C,
+128915721,Hpt_MRAScanner_Size0_Class4,utility,Pulse Wave Analyser,,,,0,B,
+128915722,Hpt_MRAScanner_Size0_Class5,utility,Pulse Wave Analyser,,,,0,A,
 128915981,Mamba_Armour_Grade1,standard,Lightweight Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915982,Mamba_Armour_Grade2,standard,Reinforced Alloy,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915983,Mamba_Armour_Grade3,standard,Military Grade Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
