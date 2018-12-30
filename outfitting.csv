@@ -776,7 +776,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671339,Hpt_PlasmaAccelerator_Fixed_Large_Advanced,hardpoint,Advanced Plasma Accelerator,Fixed,,,3,B,ELITE_SPECIFIC_V_POWER_100050
 128671340,Hpt_MiningLaser_Fixed_Small_Advanced,hardpoint,Mining Lance,Fixed,,,1,D,powerplay
 128671341,Hpt_Railgun_Fixed_Medium_Burst,hardpoint,Imperial Hammer Rail Gun,Fixed,,,2,B,ELITE_SPECIFIC_V_POWER_100020
-128671342,Hpt_PulseLaser_Fixed_Medium_Disruptor,hardpoint,Pulse Laser Disruptor,Fixed,,,2,E,powerplay
+128671342,Hpt_PulseLaser_Fixed_Medium_Disruptor,hardpoint,Pulse Disruptor Laser,Fixed,,,2,E,ELITE_SPECIFIC_V_POWER_100040
 128671343,Hpt_Slugshot_Fixed_Large_Range,hardpoint,Pacifier Frag-Cannon,Fixed,,,3,C,ELITE_SPECIFIC_V_POWER_100060
 128671344,Hpt_DrunkMissileRack_Fixed_Medium,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,ELITE_SPECIFIC_V_POWER_100070
 128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Multi-Cannon,Fixed,,,1,F,powerplay
