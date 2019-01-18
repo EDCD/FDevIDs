@@ -1027,14 +1027,14 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128891608,Hpt_Guardian_ShardCannon_Turret_Small,hardpoint,Guardian Shard Cannon,Turreted,,,1,F,ELITE_HORIZONS_V_GUARDIAN_SHARD_TURRET_SMALL
 128891609,Hpt_Guardian_ShardCannon_Fixed_Small,hardpoint,Guardian Shard Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_SHARD_FIXED_SMALL
 128891610,Hpt_Guardian_GaussCannon_Fixed_Small,hardpoint,Guardian Gauss Cannon,Fixed,,,1,D,ELITE_HORIZONS_V_GUARDIAN_GAUSS_FIXED_SMALL
-128915454,Hpt_Mining_SubSurfDispMisle_Fixed_Small,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,1,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915455,Hpt_Mining_SubSurfDispMisle_Turret_Small,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,1,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915456,Hpt_Mining_SubSurfDispMisle_Fixed_Medium,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915457,Hpt_Mining_SubSurfDispMisle_Turret_Medium,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915458,Hpt_Mining_AbrBlstr_Fixed_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915459,Hpt_Mining_AbrBlstr_Turret_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915460,Hpt_Mining_SeismChrgWarhd_Fixed_Medium,hardpoint,Seismic Charge Launcher,Fixed,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128915461,Hpt_Mining_SeismChrgWarhd_Turret_Medium,hardpoint,Seismic Charge Launcher,Turreted,Seeker,,2,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128915454,Hpt_Mining_SubSurfDispMisle_Fixed_Small,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,1,B,
+128915455,Hpt_Mining_SubSurfDispMisle_Turret_Small,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,1,B,
+128915456,Hpt_Mining_SubSurfDispMisle_Fixed_Medium,hardpoint,Sub-Surface Displacement Missile,Fixed,Seeker,,2,B,
+128915457,Hpt_Mining_SubSurfDispMisle_Turret_Medium,hardpoint,Sub-Surface Displacement Missile,Turreted,Seeker,,2,B,
+128915458,Hpt_Mining_AbrBlstr_Fixed_Small,hardpoint,Abrasion Blaster,Fixed,,,1,D,
+128915459,Hpt_Mining_AbrBlstr_Turret_Small,hardpoint,Abrasion Blaster,Turreted,,,1,D,
+128915460,Hpt_Mining_SeismChrgWarhd_Fixed_Medium,hardpoint,Seismic Charge Launcher,Fixed,Seeker,,2,B,
+128915461,Hpt_Mining_SeismChrgWarhd_Turret_Medium,hardpoint,Seismic Charge Launcher,Turreted,Seeker,,2,B,
 128915718,Hpt_MRAScanner_Size0_Class1,utility,Pulse Wave Analyser,,,,0,E,
 128915719,Hpt_MRAScanner_Size0_Class2,utility,Pulse Wave Analyser,,,,0,D,
 128915720,Hpt_MRAScanner_Size0_Class3,utility,Pulse Wave Analyser,,,,0,C,
