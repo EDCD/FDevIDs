@@ -757,14 +757,14 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671288,Int_DroneControl_Prospector_Size7_Class5,internal,Prospector Limpet Controller,,,,7,A,
 128671321,Hpt_Slugshot_Gimbal_Large,hardpoint,Fragment Cannon,Gimballed,,,3,C,
 128671322,Hpt_Slugshot_Turret_Large,hardpoint,Fragment Cannon,Turreted,,,3,C,
-128671323,Int_ShieldGenerator_Size1_Class5_Strong,internal,Prismatic Shield Generator,,,,1,A,powerplay
-128671324,Int_ShieldGenerator_Size2_Class5_Strong,internal,Prismatic Shield Generator,,,,2,A,powerplay
-128671325,Int_ShieldGenerator_Size3_Class5_Strong,internal,Prismatic Shield Generator,,,,3,A,powerplay
-128671326,Int_ShieldGenerator_Size4_Class5_Strong,internal,Prismatic Shield Generator,,,,4,A,powerplay
-128671327,Int_ShieldGenerator_Size5_Class5_Strong,internal,Prismatic Shield Generator,,,,5,A,powerplay
-128671328,Int_ShieldGenerator_Size6_Class5_Strong,internal,Prismatic Shield Generator,,,,6,A,powerplay
-128671329,Int_ShieldGenerator_Size7_Class5_Strong,internal,Prismatic Shield Generator,,,,7,A,powerplay
-128671330,Int_ShieldGenerator_Size8_Class5_Strong,internal,Prismatic Shield Generator,,,,8,A,powerplay
+128671323,Int_ShieldGenerator_Size1_Class5_Strong,internal,Prismatic Shield Generator,,,,1,A,ELITE_SPECIFIC_V_POWER_100000
+128671324,Int_ShieldGenerator_Size2_Class5_Strong,internal,Prismatic Shield Generator,,,,2,A,ELITE_SPECIFIC_V_POWER_100000
+128671325,Int_ShieldGenerator_Size3_Class5_Strong,internal,Prismatic Shield Generator,,,,3,A,ELITE_SPECIFIC_V_POWER_100000
+128671326,Int_ShieldGenerator_Size4_Class5_Strong,internal,Prismatic Shield Generator,,,,4,A,ELITE_SPECIFIC_V_POWER_100000
+128671327,Int_ShieldGenerator_Size5_Class5_Strong,internal,Prismatic Shield Generator,,,,5,A,ELITE_SPECIFIC_V_POWER_100000
+128671328,Int_ShieldGenerator_Size6_Class5_Strong,internal,Prismatic Shield Generator,,,,6,A,ELITE_SPECIFIC_V_POWER_100000
+128671329,Int_ShieldGenerator_Size7_Class5_Strong,internal,Prismatic Shield Generator,,,,7,A,ELITE_SPECIFIC_V_POWER_100000
+128671330,Int_ShieldGenerator_Size8_Class5_Strong,internal,Prismatic Shield Generator,,,,8,A,ELITE_SPECIFIC_V_POWER_100000
 128671331,Int_ShieldGenerator_Size1_Class3_Fast,internal,Bi-Weave Shield Generator,,,,1,C,
 128671332,Int_ShieldGenerator_Size2_Class3_Fast,internal,Bi-Weave Shield Generator,,,,2,C,
 128671333,Int_ShieldGenerator_Size3_Class3_Fast,internal,Bi-Weave Shield Generator,,,,3,C,
