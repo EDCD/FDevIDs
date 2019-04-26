@@ -1045,3 +1045,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128915983,Mamba_Armour_Grade3,standard,Military Grade Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915984,Mamba_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128915985,Mamba_Armour_Reactive,standard,Reactive Surface Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128932273,Int_SupercruiseAssist,internal,Supercruise Assist,,,,1,E,
+128935155,Int_DockingComputer_Advanced,internal,Advanced Docking Computer,,,,1,E,
