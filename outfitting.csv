@@ -543,7 +543,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128666638,Int_LifeSupport_Size1_Class1_free,standard,Life Support,,,,1,E,
 128666639,Int_PowerDistributor_Size1_Class1_free,standard,Power Distributor,,,,1,E,
 128666640,Int_Sensors_Size1_Class1_free,standard,Sensors,,,,1,E,
-128666641,Int_ShieldGenerator_Size2_Class1_free,standard,Sensors,,,,2,E,
+128666641,Int_ShieldGenerator_Size2_Class1_free,internal,Shield Generator,,,,2,E,
 128666642,Int_StellarBodyDiscoveryScanner_Standard_free,internal,Basic Discovery Scanner,,,,1,E,
 128666643,Int_CargoRack_Size2_Class1_free,internal,Cargo Rack,,,,2,E,
 128666644,Int_FuelScoop_Size1_Class1,internal,Fuel Scoop,,,,1,E,
