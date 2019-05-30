@@ -783,7 +783,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671342,Hpt_PulseLaser_Fixed_Medium_Disruptor,hardpoint,Pulse Disruptor Laser,Fixed,,,2,E,ELITE_SPECIFIC_V_POWER_100040
 128671343,Hpt_Slugshot_Fixed_Large_Range,hardpoint,Pacifier Frag-Cannon,Fixed,,,3,C,ELITE_SPECIFIC_V_POWER_100060
 128671344,Hpt_DrunkMissileRack_Fixed_Medium,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,ELITE_SPECIFIC_V_POWER_100070
-128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Multi-Cannon,Fixed,,,1,F,powerplay
+128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Cannon,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100090
 128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,powerplay
 128671448,Hpt_MineLauncher_Fixed_Small_Impulse,hardpoint,Shock Mine Launcher,Fixed,,,1,I,
 128671449,Hpt_PulseLaserBurst_Fixed_Small_Scatter,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100100
@@ -1051,3 +1051,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128915985,Mamba_Armour_Reactive,standard,Reactive Surface Composite,,,Mamba,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128932273,Int_SupercruiseAssist,internal,Supercruise Assist,,,,1,E,
 128935155,Int_DockingComputer_Advanced,internal,Advanced Docking Computer,,,,1,E,
+128935980,Hpt_MultiCannon_Fixed_Medium_Adanced,hardpoint,Advanced Multi-Cannon,Fixed,,,2,E,
+128935981,Hpt_MultiCannon_Fixed_Small_Advanced,hardpoint,Advanced Multi-Cannon,Fixed,,,1,F,
