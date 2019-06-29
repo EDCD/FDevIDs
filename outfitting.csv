@@ -784,7 +784,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671343,Hpt_Slugshot_Fixed_Large_Range,hardpoint,Pacifier Frag-Cannon,Fixed,,,3,C,ELITE_SPECIFIC_V_POWER_100060
 128671344,Hpt_DrunkMissileRack_Fixed_Medium,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,ELITE_SPECIFIC_V_POWER_100070
 128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Cannon,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100090
-128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,powerplay
+128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,ELITE_SPECIFIC_V_POWER_100010
 128671448,Hpt_MineLauncher_Fixed_Small_Impulse,hardpoint,Shock Mine Launcher,Fixed,,,1,I,
 128671449,Hpt_PulseLaserBurst_Fixed_Small_Scatter,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100100
 128671832,DiamondBackXL_Armour_Grade1,standard,Lightweight Alloy,,,Diamondback Explorer,1,I,
