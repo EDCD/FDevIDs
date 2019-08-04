@@ -853,7 +853,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128727930,Int_FighterBay_Size5_Class1,internal,Fighter Hangar,,,,5,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128727931,Int_FighterBay_Size6_Class1,internal,Fighter Hangar,,,,6,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128727932,Int_FighterBay_Size7_Class1,internal,Fighter Hangar,,,,7,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128732552,Hpt_DumbfireMissileRack_Fixed_Medium_Lasso,hardpoint,Rocket Propelled FSD Disruptor,Fixed,Dumbfire,,2,B,powerplay
+128732552,Hpt_DumbfireMissileRack_Fixed_Medium_Lasso,hardpoint,Rocket Propelled FSD Disruptor,Fixed,Dumbfire,,2,B,ELITE_SPECIFIC_V_POWER_100120
 128734690,Int_PassengerCabin_Size2_Class1,internal,Economy Class Passenger Cabin,,,,2,E,
 128734691,Int_PassengerCabin_Size3_Class1,internal,Economy Class Passenger Cabin,,,,3,E,
 128734692,Int_PassengerCabin_Size3_Class2,internal,Business Class Passenger Cabin,,,,3,D,
