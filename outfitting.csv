@@ -1053,3 +1053,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128935155,Int_DockingComputer_Advanced,internal,Advanced Docking Computer,,,,1,E,
 128935980,Hpt_MultiCannon_Fixed_Medium_Advanced,hardpoint,Advanced Multi-Cannon,Fixed,,,2,E,
 128935981,Hpt_MultiCannon_Fixed_Small_Advanced,hardpoint,Advanced Multi-Cannon,Fixed,,,1,F,
+128935982,Hpt_DumbfireMissileRack_Fixed_Small_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,1,B,
+128935983,Hpt_DumbfireMissileRack_Fixed_Medium_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,2,B,
