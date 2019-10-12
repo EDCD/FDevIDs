@@ -540,7 +540,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128662535,Int_StellarBodyDiscoveryScanner_Standard,internal,Basic Discovery Scanner,,,,1,E,
 128663560,Int_StellarBodyDiscoveryScanner_Intermediate,internal,Intermediate Discovery Scanner,,,,1,D,
 128663561,Int_StellarBodyDiscoveryScanner_Advanced,internal,Advanced Discovery Scanner,,,,1,C,
-128666634,Int_DetailedSurfaceScanner_Tiny,internal,Detailed Surface Scanner,,,,1,C,
+128666634,Int_DetailedSurfaceScanner_Tiny,internal,Detailed Surface Scanner,,,,1,I,
 128666635,Int_PowerPlant_Size2_Class1_free,standard,Power Plant,,,,2,E,
 128666636,Int_Engine_Size2_Class1_free,standard,Thrusters,,,,2,E,
 128666637,Int_Hyperdrive_Size2_Class1_free,standard,Frame Shift Drive,,,,2,E,
