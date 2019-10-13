@@ -537,9 +537,9 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128662532,Hpt_CrimeScanner_Size0_Class3,utility,Kill Warrant Scanner,,,,0,C,
 128662533,Hpt_CrimeScanner_Size0_Class4,utility,Kill Warrant Scanner,,,,0,B,
 128662534,Hpt_CrimeScanner_Size0_Class5,utility,Kill Warrant Scanner,,,,0,A,
-128662535,Int_StellarBodyDiscoveryScanner_Standard,internal,Basic Discovery Scanner,,,,1,E,
-128663560,Int_StellarBodyDiscoveryScanner_Intermediate,internal,Intermediate Discovery Scanner,,,,1,D,
-128663561,Int_StellarBodyDiscoveryScanner_Advanced,internal,Advanced Discovery Scanner,,,,1,C,
+128662535,Int_StellarBodyDiscoveryScanner_Standard,internal,Basic Discovery Scanner,,,,1,E,removed
+128663560,Int_StellarBodyDiscoveryScanner_Intermediate,internal,Intermediate Discovery Scanner,,,,1,D,removed
+128663561,Int_StellarBodyDiscoveryScanner_Advanced,internal,Advanced Discovery Scanner,,,,1,C,removed
 128666634,Int_DetailedSurfaceScanner_Tiny,internal,Detailed Surface Scanner,,,,1,I,
 128666635,Int_PowerPlant_Size2_Class1_free,standard,Power Plant,,,,2,E,
 128666636,Int_Engine_Size2_Class1_free,standard,Thrusters,,,,2,E,
