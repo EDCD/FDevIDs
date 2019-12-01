@@ -833,7 +833,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128672291,Int_BuggyBay_Size4_Class2,internal,Planetary Vehicle Hangar,,,,4,G,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128672292,Int_BuggyBay_Size6_Class1,internal,Planetary Vehicle Hangar,,,,6,H,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128672293,Int_BuggyBay_Size6_Class2,internal,Planetary Vehicle Hangar,,,,6,G,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128672317,Int_PlanetApproachSuite,standard,Planetary Approach Suite,,,,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128672317,Int_PlanetApproachSuite,internal,Planetary Approach Suite,,,,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128681641,Int_CorrosionProofCargoRack_Size1_Class1,internal,Corrosion Resistant Cargo Rack,,,,1,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128681992,Int_CorrosionProofCargoRack_Size1_Class2,internal,Corrosion Resistant Cargo Rack,,,,1,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128681994,Hpt_BeamLaser_Gimbal_Huge,hardpoint,Beam Laser,Gimballed,,,4,A,
