@@ -14,4 +14,9 @@ Retreat,Retreat
 War,War
 CivilLiberty,Civil Liberty
 PirateAttack,Pirate Attack
-Drought,Blight
+Blight,Blight
+Drought,Drought
+InfrastructureFailure,Infrastructure Failure
+NaturalDisaster,Natural Disaster
+PublicHoliday,Public Holiday
+Terrorism,Terrorist Attack
