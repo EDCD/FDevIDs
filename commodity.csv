@@ -189,12 +189,12 @@ id,symbol,category,name
 128682053,AntimatterContainmentUnit,Salvage,Antimatter Containment Unit
 128682054,SpacePioneerRelics,Salvage,Space Pioneer Relics
 128682055,FossilRemnants,Salvage,Fossil Remnants
-128732183,AncientRelic,Salvage,Ancient Relic
-128732184,AncientOrb,Salvage,Ancient Orb
-128732185,AncientCasket,Salvage,Ancient Casket
-128732186,AncientTablet,Salvage,Ancient Tablet
-128732187,AncientUrn,Salvage,Ancient Urn
-128732188,AncientTotem,Salvage,Ancient Totem
+128732183,AncientRelic,Salvage,Guardian Relic
+128732184,AncientOrb,Salvage,Guardian Orb
+128732185,AncientCasket,Salvage,Guardian Casket
+128732186,AncientTablet,Salvage,Guardian Tablet
+128732187,AncientUrn,Salvage,Guardian Urn
+128732188,AncientTotem,Salvage,Guardian Totem
 128737287,UnknownResin,Salvage,Thargoid Resin
 128737288,UnknownBiologicalMatter,Salvage,Thargoid Biological Matter
 128737289,UnknownTechnologySamples,Salvage,Thargoid Technology Samples
