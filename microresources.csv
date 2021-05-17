@@ -78,3 +78,24 @@ id,symbol,category,English name
 ?,factiondonatorlist,Data,Faction Donator List
 ?,nocdata,Data,NOC Data
 ?,trueformfossil,Item,True Form Fossil
+?,suitschematic,Item,Suit Schematic
+?,agriculturalprocesssample,Item,Agricultural Process Sample
+?,californium,Item,Californium
+?,chemicalprocesssample,Item,Chemical Process Sample
+?,chemicalsample,Item,Chemical Sample
+?,employmenthistory,Data,Employment History
+?,insightdatabank,Item,Insight Data Bank
+?,personaldocuments,Item,Personal Documents
+?,pyrolyticcatalyst,Item,Pyrolytic Catalyst
+?,shipschematic,Item,Ship Schematic
+?,spyware,Data,Spyware
+?,surveillanceequipment,Item,Surveillance Equipment
+?,tacticalplans,Data,Tactical Plans
+?,vehicleschematic,Item,Vehicle Schematic
+?,weaponschematic,Item,Weapon Schematic
+?,virus,Data,Virus
+?,ionisedgas,Item,Ionised Gas
+?,aerogel,Component,Aerogel
+?,carbonfibreplating,Component,Carbon Fibre Plating
+?,microsupercapacitor,Component,Micro Supercapacitor
+?,titaniumplating,Component,Titanium Plating
