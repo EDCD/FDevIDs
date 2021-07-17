@@ -78,3 +78,70 @@ id,symbol,category,English name
 ?,factiondonatorlist,Data,Faction Donator List
 ?,nocdata,Data,NOC Data
 ?,trueformfossil,Item,True Form Fossil
+?,healthmonitor,Item,Health Monitor
+?,nutritionalconcentrate,Item,Nutritional Concentrate
+?,personaldocuments,Item,Personal Documents
+?,chemicalsample,Item,Chemical Sample
+?,insightdatabank,Item,Insight Data Bank
+?,ionisedgas,Item,Ionised Gas
+?,personalcomputer,Item,Personal Computer
+?,shipschematic,Item,Ship Schematic
+?,suitschematic,Item,Suit Schematic
+?,vehicleschematic,Item,Vehicle Schematic
+?,weaponschematic,Item,Weapon Schematic
+?,inertiacanister,Item,Inertia Canister
+?,surveillanceequipment,Item,Surveillance Equipment
+?,deepmantlesample,Item,Deep Mantle Sample
+?,microbialinhibitor,Item,Microbial Inhibitor
+?,castfossil,Item,Cast Fossil
+?,petrifiedfossil,Item,Petrified Fossil
+?,agriculturalprocesssample,Item,Agricultural Process Sample
+?,chemicalprocesssample,Item,Chemical Process Sample
+?,refinementprocesssample,Item,Refinement Process Sample
+?,microsupercapacitor,Component,Micro Supercapacitor
+?,microtransformer,Component,Micro Transformer
+?,chemicalsuperbase,Component,Chemical Superbase
+?,circuitswitch,Component,Circuit Switch
+?,electricalwiring,Component,Electrical Wiring
+?,encryptedmemorychip,Component,Encrypted Memory Chip
+?,epoxyadhesive,Component,Epoxy Adhesive
+?,memorychip,Component,Memory Chip
+?,microhydraulics,Component,Micro Hydraulics
+?,opticalfibre,Component,Optical Fibre
+?,titaniumplating,Component,Titanium Plating
+?,phneutraliser,Component,pH Neutraliser
+?,metalcoil,Component,Metal Coil
+?,viscoelasticpolymer,Component,Viscoelastic Polymer
+?,ionbattery,Component,Ion Battery
+?,chemicalcatalyst,Component,Chemical Catalyst
+?,electricalfuse,Component,Electrical Fuse
+?,opticallens,Component,Optical Lens
+?,weaponcomponent,Component,Weapon Component
+?,carbonfibreplating,Component,Carbon Fibre Plating
+?,microthrusters,Component,Micro Thrusters
+?,oxygenicbacteria,Component,Oxygenic Bacteria
+?,circuitboard,Component,Circuit Board
+?,tungstencarbide,Component,Tungsten Carbide
+?,ballisticsdata,Data,Ballistics Data
+?,politicalaffiliations,Data,Political Affiliations
+?,conflicthistory,Data,Conflict History
+?,riskassessments,Data,Risk Assessments
+?,stellaractivitylogs,Data,Stellar Activity Logs
+?,manufacturinginstructions,Data,Manufacturing Instructions
+?,digitaldesigns,Data,Digital Designs
+?,medicalrecords,Data,Medical Records
+?,employmenthistory,Data,Employment History
+?,vipsecuritydetail,Data,VIP Security Detail
+?,classicentertainment,Data,Classic Entertainment
+?,photoalbums,Data,Photo Albums
+?,biometricdata,Data,Biometric Data
+?,extractionyielddata,Data,Extraction Yield Data
+?,securityexpenses,Data,Security Expenses
+?,culinaryrecipes,Data,Culinary Recipes
+?,fleetregistry,Data,Fleet Registry
+?,influenceprojections,Data,Influence Projections
+?,cocktailrecipes,Data,Cocktail Recipes
+?,employeeexpenses,Data,Employee Expenses
+?,interviewrecordings,Data,Interview Recordings
+?,recyclinglogs,Data,Recycling Logs
+?,jobapplications,Data,Job Applications
