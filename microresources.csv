@@ -1,80 +1,197 @@
 id,symbol,category,English name
-?,bypass,Consumable,E-Breach
-?,largecapacitypowerregulator,Item,Power Regulator
-?,chemicalinventory,Data,Chemical Inventory
-?,dutyrota,Data,Duty Rota
-?,evacuationprotocols,Data,Evacuation Protocols
-?,explorationjournals,Data,Exploration Journals
-?,factionnews,Data,Faction News
-?,financialprojections,Data,Financial Projections
-?,salesrecords,Data,Sales Records
-?,unionmembership,Data,Union Membership
-?,compactlibrary,Item,Compact Library
-?,infinity,Item,infinity
-?,insightentertainmentsuite,Item,Insight Entertainment Suite
-?,lazarus,Item,lazarus
-?,energycell,Consumable,Energy Cell
-?,healthpack,Consumable,Medkit
-?,universaltranslator,Item,Universal Translator
-?,biochemicalagent,Item,Biochemical Agent
-?,degradedpowerregulator,Item,Degraded Power Regulator
-?,hush,Item,hush
-?,maintenancelogs,Data,Maintenance Logs
-?,patrolroutes,Data,Patrol Routes
-?,push,Item,push
-?,settlementdefenceplans,Data,Settlement Defence Plans
-?,surveilleancelogs,Data,Surveillance Logs
-?,syntheticpathogen,Item,Synthetic Pathogen
-?,buildingschematic,Item,Building Schematic
-?,operationalmanual,Data,Operational Manual
-?,blacklistdata,Data,Blacklist Data
-?,insight,Item,insight
-?,airqualityreports,Data,Air Quality Reports
-?,employeedirectory,Data,Employee Directory
-?,factionassociates,Data,Faction Associates
-?,meetingminutes,Data,Meeting Minutes
-?,multimediaentertainment,Data,Multimedia Entertainment
-?,networkaccesshistory,Data,Network Access History
-?,purchaserecords,Data,Purchase Records
-?,radioactivitydata,Data,Radioactivity Data
-?,residentialdirectory,Data,Residential Directory
-?,shareholderinformation,Data,Shareholder Information
-?,travelpermits,Data,Travel Permits
-?,accidentlogs,Data,Accident Logs
-?,campaignplans,Data,Campaign Plans
-?,combattrainingmaterial,Data,Combat Training Material
-?,internalcorrespondence,Data,Internal Correspondence
-?,payrollinformation,Data,Payroll Information
-?,personallogs,Data,Personal Logs
-?,weaponinventory,Data,Weapon Inventory
-?,atmosphericdata,Data,Atmospheric Data
-?,topographicalsurveys,Data,Topographical Surveys
-?,literaryfiction,Data,Literary Fiction
-?,reactoroutputreview,Data,Reactor Output Review
-?,nextofkinrecords,Data,Next of Kin Records
-?,purchaserequests,Data,Purchase Requests
-?,taxrecords,Data,Tax Records
-?,visitorregister,Data,Visitor Register
-?,pharmaceuticalpatents,Data,Pharmaceutical Patents
-?,vaccineresearch,Data,Vaccine Research
-?,virologydata,Data,Virology Data
-?,vaccinationrecords,Data,Vaccination Records
-?,censusdata,Data,Census Data
-?,geographicaldata,Data,Geographical Data
-?,mineralsurvey,Data,Mineral Survey
-?,chemicalformulae,Data,Chemical Formulae
-?,amm_grenade_frag,Consumable,Frag Grenade
-?,amm_grenade_emp,Consumable,Shield Disruptor
-?,amm_grenade_shield,Consumable,Shield Projector
-?,chemicalexperimentdata,Data,Chemical Experiment Data
-?,chemicalpatents,Data,Chemical Patents
-?,productionreports,Data,Production Reports
-?,productionschedule,Data,Production Schedule
-?,bloodtestresults,Data,Blood Test Results
-?,combatantperformance,Data,Combatant Performance
-?,troopdeploymentrecords,Data,Troop Deployment Records
-?,catmedia,Data,Cat Media
-?,employeegeneticdata,Data,Employee Genetic Data
-?,factiondonatorlist,Data,Faction Donator List
-?,nocdata,Data,NOC Data
-?,trueformfossil,Item,True Form Fossil
+128064021,graphene,Component,Graphene
+128672130,internalcorrespondence,Data,Internal Correspondence
+128932270,healthpack,Consumable,Medkit
+128941245,energycell,Consumable,Energy Cell
+128951161,amm_grenade_emp,Consumable,Shield Disruptor
+128951162,amm_grenade_frag,Consumable,Frag Grenade
+128951163,amm_grenade_shield,Consumable,Shield Projector
+128959449,chemicalsample,Item,Chemical Sample
+128961251,bypass,Consumable,E-Breach
+128961514,spyware,Data,Spyware
+128961524,aerogel,Component,Aerogel
+128961526,carbonfibreplating,Component,Carbon Fibre Plating
+128961527,chemicalcatalyst,Component,Chemical Catalyst
+128961528,chemicalsuperbase,Component,Chemical Superbase
+128961529,circuitboard,Component,Circuit Board
+128961530,circuitswitch,Component,Circuit Switch
+128961531,electricalfuse,Component,Electrical Fuse
+128961532,electricalwiring,Component,Electrical Wiring
+128961533,encryptedmemorychip,Component,Encrypted Memory Chip
+128961534,epoxyadhesive,Component,Epoxy Adhesive
+128961537,memorychip,Component,Memory Chip
+128961538,metalcoil,Component,Metal Coil
+128961539,microhydraulics,Component,Micro Hydraulics
+128961540,microsupercapacitor,Component,Micro Supercapacitor
+128961541,microthrusters,Component,Micro Thrusters
+128961542,microtransformer,Component,Micro Transformer
+128961543,motor,Component,Motor
+128961544,opticalfibre,Component,Optical Fibre
+128961545,opticallens,Component,Optical Lens
+128961547,scrambler,Component,Scrambler
+128961549,titaniumplating,Component,Titanium Plating
+128961550,transmitter,Component,Transmitter
+128961551,tungstencarbide,Component,Tungsten Carbide
+128961552,viscoelasticpolymer,Component,Viscoelastic Polymer
+128961554,biochemicalagent,Item,Biochemical Agent
+128961556,californium,Item,Californium
+128961557,castfossil,Item,Cast Fossil
+128961564,geneticsample,Item,Biological Sample
+128961565,gmeds,Item,G-Meds
+128961566,healthmonitor,Item,Health Monitor
+128961567,inertiacanister,Item,Inertia Canister
+128961568,insight,Item,Insight
+128961569,insightdatabank,Item,Insight Data Bank
+128961570,ionisedgas,Item,Ionised Gas
+128961571,mutageniccatalyst,Item,Mutagenic Catalyst
+128961584,personalcomputer,Item,Personal Computer
+128961586,petrifiedfossil,Item,Petrified Fossil
+128961590,syntheticgenome,Item,Synthetic Genome
+128961591,trueformfossil,Item,True Form Fossil
+128962315,geneticrepairmeds,Item,Genetic Repair Meds
+128962572,rdx,Component,RDX
+128962573,electromagnet,Component,Electromagnet
+128962574,oxygenicbacteria,Component,Oxygenic Bacteria
+128962575,epinephrine,Component,Epinephrine
+128962576,phneutraliser,Component,pH Neutraliser
+128962597,buildingschematic,Item,Building Schematic
+128962598,compactlibrary,Item,Compact Library
+128962599,deepmantlesample,Item,Deep Mantle Sample
+128962600,hush,Item,Hush
+128962601,infinity,Item,Infinity
+128962602,insightentertainmentsuite,Item,Insight Entertainment Suite
+128962603,lazarus,Item,Lazarus
+128962604,microbialinhibitor,Item,Microbial Inhibitor
+128962605,nutritionalconcentrate,Item,Nutritional Concentrate
+128962606,personaldocuments,Item,Personal Documents
+128962607,push,Item,Push
+128962608,shipschematic,Item,Ship Schematic
+128962609,suitschematic,Item,Suit Schematic
+128962610,surveillanceequipment,Item,Surveillance Equipment
+128962611,syntheticpathogen,Item,Synthetic Pathogen
+128962612,universaltranslator,Item,Universal Translator
+128962613,vehicleschematic,Item,Vehicle Schematic
+128962614,weaponschematic,Item,Weapon Schematic
+128964025,microelectrode,Component,Microelectrode
+128964034,biometricdata,Data,Biometric Data
+128965835,pyrolyticcatalyst,Item,Pyrolytic Catalyst
+128965836,inorganiccontaminant,Item,Inorganic Contaminant
+128965837,agriculturalprocesssample,Item,Agricultural Process Sample
+128965838,chemicalprocesssample,Item,Chemical Process Sample
+128965839,refinementprocesssample,Item,Refinement Process Sample
+128965840,compressionliquefiedgas,Item,Compression-Liquefied Gas
+128965841,degradedpowerregulator,Item,Degraded Power Regulator
+128965842,largecapacitypowerregulator,Item,Power Regulator
+128965844,ionbattery,Component,Ion Battery
+128965845,weaponcomponent,Component,Weapon Component
+128972280,nocdata,Data,NOC Data
+128972281,axcombatlogs,Data,AX Combat Logs
+128972282,accidentlogs,Data,Accident Logs
+128972283,airqualityreports,Data,Air Quality Reports
+128972284,atmosphericdata,Data,Atmospheric Data
+128972285,audiologs,Data,Audio Logs
+128972286,ballisticsdata,Data,Ballistics Data
+128972287,biologicalweapondata,Data,Biological Weapon Data
+128972288,blacklistdata,Data,Blacklist Data
+128972289,bloodtestresults,Data,Blood Test Results
+128972290,campaignplans,Data,Campaign Plans
+128972291,catmedia,Data,Cat Media
+128972292,censusdata,Data,Census Data
+128972293,chemicalexperimentdata,Data,Chemical Experiment Data
+128972294,chemicalformulae,Data,Chemical Formulae
+128972295,chemicalinventory,Data,Chemical Inventory
+128972296,chemicalpatents,Data,Chemical Patents
+128972297,chemicalweapondata,Data,Chemical Weapon Data
+128972298,classicentertainment,Data,Classic Entertainment
+128972299,cocktailrecipes,Data,Cocktail Recipes
+128972300,combattrainingmaterial,Data,Combat Training Material
+128972301,combatantperformance,Data,Combatant Performance
+128972302,conflicthistory,Data,Conflict History
+128972303,cropyieldanalysis,Data,Crop Yield Analysis
+128972304,culinaryrecipes,Data,Culinary Recipes
+128972305,digitaldesigns,Data,Digital Designs
+128972306,dutyrota,Data,Duty Rota
+128972307,employeedirectory,Data,Employee Directory
+128972308,employeeexpenses,Data,Employee Expenses
+128972309,employeegeneticdata,Data,Employee Genetic Data
+128972310,employmenthistory,Data,Employment History
+128972311,enhancedinterrogationrecordings,Data,Enhanced Interrogation Recordings
+128972312,espionagematerial,Data,Espionage Material
+128972313,evacuationprotocols,Data,Evacuation Protocols
+128972314,explorationjournals,Data,Exploration Journals
+128972315,extractionyielddata,Data,Extraction Yield Data
+128972316,factionassociates,Data,Faction Associates
+128972317,financialprojections,Data,Financial Projections
+128972318,factionnews,Data,Faction News
+128972319,fleetregistry,Data,Fleet Registry
+128972320,genesequencingdata,Data,Gene Sequencing Data
+128972321,geneticresearch,Data,Genetic Research
+128972322,hydroponicdata,Data,Hydroponic Data
+128972323,incidentlogs,Data,Incident Logs
+128972324,influenceprojections,Data,Influence Projections
+128972325,interrogationrecordings,Data,Interrogation Recordings
+128972326,interviewrecordings,Data,Interview Recordings
+128972327,jobapplications,Data,Job Applications
+128972328,kompromat,Data,Kompromat
+128972329,literaryfiction,Data,Literary Fiction
+128972330,maintenancelogs,Data,Maintenance Logs
+128972331,manufacturinginstructions,Data,Manufacturing Instructions
+128972332,medicalrecords,Data,Medical Records
+128972333,medicaltrialrecords,Data,Clinical Trial Records
+128972334,meetingminutes,Data,Meeting Minutes
+128972335,mineralsurvey,Data,Mineral Survey
+128972336,mininganalytics,Data,Mining Analytics
+128972337,multimediaentertainment,Data,Multimedia Entertainment
+128972338,networkaccesshistory,Data,Network Access History
+128972339,networksecurityprotocols,Data,Network Security Protocols
+128972340,nextofkinrecords,Data,Next of Kin Records
+128972341,operationalmanual,Data,Operational Manual
+128972342,opinionpolls,Data,Opinion Polls
+128972343,patienthistory,Data,Patient History
+128972344,patrolroutes,Data,Patrol Routes
+128972345,personallogs,Data,Personal Logs
+128972346,photoalbums,Data,Photo Albums
+128972347,plantgrowthcharts,Data,Plant Growth Charts
+128972348,politicalaffiliations,Data,Political Affiliations
+128972349,prisonerlogs,Data,Prisoner Logs
+128972350,productionreports,Data,Production Reports
+128972351,productionschedule,Data,Production Schedule
+128972352,propaganda,Data,Propaganda
+128972353,purchaserecords,Data,Purchase Records
+128972354,purchaserequests,Data,Purchase Requests
+128972355,radioactivitydata,Data,Radioactivity Data
+128972356,reactoroutputreview,Data,Reactor Output Review
+128972357,recyclinglogs,Data,Recycling Logs
+128972358,residentialdirectory,Data,Residential Directory
+128972359,riskassessments,Data,Risk Assessments
+128972360,salesrecords,Data,Sales Records
+128972361,securityexpenses,Data,Security Expenses
+128972362,seedgeneaology,Data,Seed Geneaology
+128972363,settlementassaultplans,Data,Settlement Assault Plans
+128972364,settlementdefenceplans,Data,Settlement Defence Plans
+128972365,shareholderinformation,Data,Shareholder Information
+128972366,slushfundlogs,Data,Slush Fund Logs
+128972367,smearcampaignplans,Data,Smear Campaign Plans
+128972368,spectralanalysisdata,Data,Spectral Analysis Data
+128972369,stellaractivitylogs,Data,Stellar Activity Logs
+128972370,surveilleancelogs,Data,Surveillance Logs
+128972371,tacticalplans,Data,Tactical Plans
+128972372,taxrecords,Data,Tax Records
+128972373,topographicalsurveys,Data,Topographical Surveys
+128972374,travelpermits,Data,Travel Permits
+128972375,troopdeploymentrecords,Data,Troop Deployment Records
+128972376,unionmembership,Data,Union Membership
+128972377,vaccinationrecords,Data,Vaccination Records
+128972378,vaccineresearch,Data,Vaccine Research
+128972379,vipsecuritydetail,Data,VIP Security Detail
+128972380,virologydata,Data,Virology Data
+128972381,virus,Data,Virus
+128972382,visitorregister,Data,Visitor Register
+128972383,weaponinventory,Data,Weapon Inventory
+128972384,weapontestdata,Data,Weapon Test Data
+128972385,xenodefenceprotocols,Data,Xeno-Defence Protocols
+128972386,payrollinformation,Data,Payroll Information
+128972387,geologicaldata,Data,Geological Data
+128972388,criminalrecords,Data,Criminal Records
+128972389,factiondonatorlist,Data,Faction Donator List
+128972390,pharmaceuticalpatents,Data,Pharmaceutical Patents
