@@ -1057,3 +1057,13 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128935982,Hpt_DumbfireMissileRack_Fixed_Small_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,1,B,
 128935983,Hpt_DumbfireMissileRack_Fixed_Medium_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,2,B,
 128975719,Int_PlanetApproachSuite_Advanced,internal,Advanced Planetary Approach Suite,,,,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129001921,Int_MultiDroneControl_Mining_Size3_Class1,internal,Mining Multi Limpet Controller,,,,3,E,
+129001922,Int_MultiDroneControl_Mining_Size3_Class3,internal,Mining Multi Limpet Controller,,,,3,C,
+129001923,Int_MultiDroneControl_Operations_Size3_Class3,internal,Operations Multi Limpet Controller,,,,3,C,
+129001924,Int_MultiDroneControl_Operations_Size3_Class4,internal,Operations Multi Limpet Controller,,,,3,B,
+129001925,Int_MultiDroneControl_Rescue_Size3_Class2,internal,Rescue Multi Limpet Controller,,,,3,D,
+129001926,Int_MultiDroneControl_Rescue_Size3_Class3,internal,Rescue Multi Limpet Controller,,,,3,C,
+129001927,Int_MultiDroneControl_Xeno_Size3_Class3,internal,Xeno Multi Limpet Controller,,,,3,C,
+129001928,Int_MultiDroneControl_Xeno_Size3_Class4,internal,Xeno Multi Limpet Controller,,,,3,B,
+129001929,Int_MultiDroneControl_Universal_Size7_Class3,internal,Universal Multi Limpet Controller,,,,7,C,
+129001930,Int_MultiDroneControl_Universal_Size7_Class5,internal,Universal Multi Limpet Controller,,,,7,A,
