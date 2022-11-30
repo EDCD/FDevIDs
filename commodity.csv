@@ -233,3 +233,6 @@ id,symbol,category,name
 128961249,Tritium,Chemicals,Tritium
 128983059,OnionHeadC,Legal Drugs,Onionhead Gamma Strain
 129015433,AncientRelicTG,Salvage,Unclassified Relic
+129019258,ThargoidTissueSampleType5,Salvage,Thargoid Orthrus Tissue Sample
+129019259,ThargoidGeneratorTissueSample,Salvage,Caustic Tissue Sample
+129022087,UnocuppiedEscapePod,Salvage,Unoccupied Escape Pod
