@@ -62,7 +62,7 @@ id,symbol,market_id,category,name
 128667077,EthgrezeTeaBuds,3229524992,Foods,Ethgreze Tea Buds
 128667078,CeremonialHeikeTea,3227417856,Foods,Ceremonial Heike Tea
 128667079,TanmarkTranquilTea,128057866,Foods,Tanmark Tranquil Tea
-128667080,AZCancriFormula42,3228400128,Technology,Az Cancri Formula 42
+128667080,AZCancriFormula42,3228400128,Technology,AZ Cancri Formula 42
 128667081,KamitraCigars,3225450752,Legal Drugs,Kamitra Cigars
 128667082,RusaniOldSmokey,3229255680,Legal Drugs,Rusani Old Smokey
 128667083,YasoKondiLeaf,3223088640,Legal Drugs,Yaso Kondi Leaf
@@ -127,7 +127,7 @@ id,symbol,market_id,category,name
 128672121,TheHuttonMug,3228728832,Consumer Items,The Hutton Mug
 128672122,SothisCrystallineGold,128668557,Metals,Sothis Crystalline Gold
 128672316,MasterChefs,128123640,Slavery,Master Chefs
-128672431,PersonalGifts,3223105792,Salvage,Personal Gifts
+128672431,PersonalGifts,3223105792,Salvage,Festive Gifts
 128672432,CrystallineSpheres,128059402,Salvage,Crystalline Spheres
 128672812,OnionHeadA,3226977024,Legal Drugs,Onionhead Alpha Strain
 128673069,OnionHeadB,3223027200,Legal Drugs,Onionhead Beta Strain
