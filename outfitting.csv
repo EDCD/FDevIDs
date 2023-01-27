@@ -924,7 +924,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793942,Int_DroneControl_Decontamination_Size3_Class1,internal,Decontamination Limpet Controller,,,,3,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128808878,Hpt_XenoScannerMk2_Basic_Tiny,utility,Unknown Xeno Scanner Mk II,,,,?,?,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128808878,Hpt_XenoScannerMk2_Basic_Tiny,utility,Enhanced Xeno Scanner,,,,0,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816569,Krait_MkII_Armour_Grade1,standard,Lightweight Alloy,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816570,Krait_MkII_Armour_Grade2,standard,Reinforced Alloy,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816571,Krait_MkII_Armour_Grade3,standard,Military Grade Composite,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
