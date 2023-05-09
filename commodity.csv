@@ -236,3 +236,10 @@ id,symbol,category,name
 129019258,ThargoidTissueSampleType5,Salvage,Thargoid Orthrus Tissue Sample
 129019259,ThargoidGeneratorTissueSample,Salvage,Caustic Tissue Sample
 129022087,UnocuppiedEscapePod,Salvage,Unoccupied Escape Pod
+129022395,ThargoidTissueSampleType6,Salvage,Thargoid Glaive Tissue Sample
+129022398,ThargoidTissueSampleType9a,Salvage,Titan Deep Tissue Sample
+129022399,ThargoidTissueSampleType9b,Salvage,Titan Tissue Sample
+129022400,ThargoidTissueSampleType9c,Salvage,Titan Partial Tissue Sample
+129022402,ThargoidTissueSampleType10a,Salvage,Titan Maw Deep Tissue Sample
+129022403,ThargoidTissueSampleType10b,Salvage,Titan Maw Tissue Sample
+129022404,ThargoidTissueSampleType10c,Salvage,Titan Maw Partial Tissue Sample
