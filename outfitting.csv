@@ -1069,6 +1069,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129001930,Int_MultiDroneControl_Universal_Size7_Class5,internal,Universal Multi Limpet Controller,,,,7,A,
 129019260,Int_ExpModuleStabiliser_Size3_Class3,internal,Experimental Weapon Stabiliser,,,,3,F,
 129019261,Int_ExpModuleStabiliser_Size5_Class3,internal,Experimental Weapon Stabiliser,,,,5,F,ELITE_HORIZONS_V_EXPERIMENTALSTABILISER_SIZE5
+129019262,Hpt_CausticSinkLauncher_Turret_Tiny,utility,Caustic Sink Launcher,,,,0,I,?
 129022079,Hpt_ATDumbfireMissile_Fixed_Large_V2,hardpoint,Enhanced AX Missile Rack,Fixed,Dumbfire,,3,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022080,Hpt_ATMultiCannon_Fixed_Medium_V2,hardpoint,Enhanced AX Multi-Cannon,Fixed,,,2,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022081,Hpt_ATDumbfireMissile_Fixed_Medium_V2,hardpoint,Enhanced AX Missile Rack,Fixed,Dumbfire,,2,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
@@ -1079,3 +1080,4 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129022086,Hpt_ATMultiCannon_Turret_Medium_V2,hardpoint,Enhanced AX Multi-Cannon,Turreted,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022088,Hpt_ATMultiCannon_Gimbal_Large,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,3,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022089,Hpt_ATMultiCannon_Gimbal_Medium,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,?
