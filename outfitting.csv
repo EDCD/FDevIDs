@@ -1081,3 +1081,4 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129022088,Hpt_ATMultiCannon_Gimbal_Large,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,3,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022089,Hpt_ATMultiCannon_Gimbal_Medium,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,?
+129022952,Hpt_XenoScanner_Advanced_Tiny,utility,Pulse Wave Xeno Scanner,,,,0,C,
