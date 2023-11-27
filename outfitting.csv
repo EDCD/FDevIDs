@@ -501,7 +501,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128064351,Int_FuelTank_Size6_Class3,standard,Fuel Tank,,,,6,C,
 128064352,Int_FuelTank_Size7_Class3,standard,Fuel Tank,,,,7,C,
 128064353,Int_FuelTank_Size8_Class3,standard,Fuel Tank,,,,8,C,
-128066402,Int_DroneControl_ResourceSiphon,internal,Limpet Control,,,,1,I,
+128066402,Int_DroneControl_ResourceSiphon,internal,Hatch Breaker Limpet Controller,,,,1,I,
 128066532,Int_DroneControl_ResourceSiphon_Size1_Class1,internal,Hatch Breaker Limpet Controller,,,,1,E,
 128066533,Int_DroneControl_ResourceSiphon_Size1_Class2,internal,Hatch Breaker Limpet Controller,,,,1,D,
 128066534,Int_DroneControl_ResourceSiphon_Size1_Class3,internal,Hatch Breaker Limpet Controller,,,,1,C,
