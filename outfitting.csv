@@ -1083,3 +1083,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,?
 129022952,Hpt_XenoScanner_Advanced_Tiny,utility,Pulse Wave Xeno Scanner,,,,0,C,
 129028577,Hpt_Human_Extraction_Fixed_Medium,hardpoint,Sub-Surface Extraction Missile,Fixed,Seeker,,2,B,
+129030049,Hpt_ATVentDisruptorPylon_Fixed_Medium,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,2,I,
+129030050,Hpt_ATVentDisruptorPylon_Fixed_Large,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,3,I,
