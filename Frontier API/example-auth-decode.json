@@ -1,0 +1,86 @@
+{
+   "iss" : "https://auth.frontierstore.net",
+   "exp" : 1566937099,
+   "scope" : "auth",
+   "usr" : {
+      "developer" : null,
+      "allowedDownloads" : [
+         {
+            "product_sku" : "FORC-FDEV-D-1001",
+            "product_name" : "Elite: Dangerous - Premium Beta",
+            "product_qty" : "1"
+         },
+         {
+            "product_qty" : "1",
+            "product_name" : "Elite: Dangerous - Standard Beta",
+            "product_sku" : "FORC-FDEV-D-1002"
+         },
+         {
+            "product_qty" : "1",
+            "product_name" : "Elite: Dangerous - Expansion Pass",
+            "product_sku" : "FORC-FDEV-D-1006"
+         },
+         {
+            "product_sku" : "FORC-FDEV-D-1007",
+            "product_qty" : "1",
+            "product_name" : "Elite (1984)"
+         },
+         {
+            "product_sku" : "FORC_FDEV_EDV_BHEAD_1036",
+            "product_name" : "Snowflake Bobblehead",
+            "product_qty" : "1"
+         },
+         {
+            "product_qty" : "1",
+            "product_name" : "Snowman Bobblehead",
+            "product_sku" : "FORC_FDEV_EDV_BHEAD_1041"
+         },
+         {
+            "product_qty" : "1",
+            "product_name" : "Anaconda Iridescent Gleam",
+            "product_sku" : "FORC_FDEV_V_ANACONDA_1102"
+         },
+         {
+            "product_sku" : "FORC_FDEV_V_DECAL_1036",
+            "product_qty" : "1",
+            "product_name" : "PAX Decal"
+         },
+         {
+            "product_sku" : "FORC_FDEV_V_EAGLE_1034",
+            "product_name" : "Eagle PAX South",
+            "product_qty" : "1"
+         },
+         {
+            "product_sku" : "FORC_FDEV_V_FEDERAL_CORVETTE_1074",
+            "product_name" : "Federal Corvette Iridescent Gleam",
+            "product_qty" : "1"
+         },
+         {
+            "product_qty" : "1",
+            "product_name" : "Imperial Cutter Iridescent Gleam",
+            "product_sku" : "FORC_FDEV_V_IMPERIAL_CUTTER_1063"
+         },
+         {
+            "product_name" : "Krait Phantom Midnight Black",
+            "product_qty" : "1",
+            "product_sku" : "FORC_FDEV_V_KRAIT_LITE_1066"
+         },
+         {
+            "product_name" : "Mamba Midnight Black",
+            "product_qty" : "1",
+            "product_sku" : "FORC_FDEV_V_MAMBA_1018"
+         },
+         {
+            "product_sku" : "FORC_FDEV_V_SRV_1090",
+            "product_qty" : "1",
+            "product_name" : "SRV Iridescent Gleam"
+         }
+      ],
+      "email" : "ELIDED@example.org",
+      "platform" : "frontier",
+      "lastname" : "Smith",
+      "firstname" : "John",
+      "customer_id" : "XXXXX"
+   },
+   "iat" : 1566922699
+}
