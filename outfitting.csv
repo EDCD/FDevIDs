@@ -19,16 +19,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128049270,Adder_Armour_Grade3,standard,Military Grade Composite,,,Adder,1,I,
 128049271,Adder_Armour_Mirrored,standard,Mirrored Surface Composite,,,Adder,1,I,
 128049272,Adder_Armour_Reactive,standard,Reactive Surface Composite,,,Adder,1,I,
-128049274,Viper_Armour_Grade1,standard,Lightweight Alloy,,,Viper MkIII,1,I,
-128049275,Viper_Armour_Grade2,standard,Reinforced Alloy,,,Viper MkIII,1,I,
-128049276,Viper_Armour_Grade3,standard,Military Grade Composite,,,Viper MkIII,1,I,
-128049277,Viper_Armour_Mirrored,standard,Mirrored Surface Composite,,,Viper MkIII,1,I,
-128049278,Viper_Armour_Reactive,standard,Reactive Surface Composite,,,Viper MkIII,1,I,
-128049280,CobraMkIII_Armour_Grade1,standard,Lightweight Alloy,,,Cobra MkIII,1,I,
-128049281,CobraMkIII_Armour_Grade2,standard,Reinforced Alloy,,,Cobra MkIII,1,I,
-128049282,CobraMkIII_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkIII,1,I,
-128049283,CobraMkIII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkIII,1,I,
-128049284,CobraMkIII_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkIII,1,I,
+128049274,Viper_Armour_Grade1,standard,Lightweight Alloy,,,Viper Mk III,1,I,
+128049275,Viper_Armour_Grade2,standard,Reinforced Alloy,,,Viper Mk III,1,I,
+128049276,Viper_Armour_Grade3,standard,Military Grade Composite,,,Viper Mk III,1,I,
+128049277,Viper_Armour_Mirrored,standard,Mirrored Surface Composite,,,Viper Mk III,1,I,
+128049278,Viper_Armour_Reactive,standard,Reactive Surface Composite,,,Viper Mk III,1,I,
+128049280,CobraMkIII_Armour_Grade1,standard,Lightweight Alloy,,,Cobra Mk III,1,I,
+128049281,CobraMkIII_Armour_Grade2,standard,Reinforced Alloy,,,Cobra Mk III,1,I,
+128049282,CobraMkIII_Armour_Grade3,standard,Military Grade Composite,,,Cobra Mk III,1,I,
+128049283,CobraMkIII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra Mk III,1,I,
+128049284,CobraMkIII_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra Mk III,1,I,
 128049286,Type6_Armour_Grade1,standard,Lightweight Alloy,,,Type-6 Transporter,1,I,
 128049287,Type6_Armour_Grade2,standard,Reinforced Alloy,,,Type-6 Transporter,1,I,
 128049288,Type6_Armour_Grade3,standard,Military Grade Composite,,,Type-6 Transporter,1,I,
@@ -807,16 +807,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128672156,Federation_Gunship_Armour_Grade3,standard,Military Grade Composite,,,Federal Gunship,1,I,
 128672157,Federation_Gunship_Armour_Mirrored,standard,Mirrored Surface Composite,,,Federal Gunship,1,I,
 128672158,Federation_Gunship_Armour_Reactive,standard,Reactive Surface Composite,,,Federal Gunship,1,I,
-128672257,Viper_MkIV_Armour_Grade1,standard,Lightweight Alloy,,,Viper MkIV,1,I,
-128672258,Viper_MkIV_Armour_Grade2,standard,Reinforced Alloy,,,Viper MkIV,1,I,
-128672259,Viper_MkIV_Armour_Grade3,standard,Military Grade Composite,,,Viper MkIV,1,I,
-128672260,Viper_MkIV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Viper MkIV,1,I,
-128672261,Viper_MkIV_Armour_Reactive,standard,Reactive Surface Composite,,,Viper MkIV,1,I,
-128672264,CobraMkIV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra MkIV,1,I,
-128672265,CobraMkIV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra MkIV,1,I,
-128672266,CobraMkIV_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkIV,1,I,
-128672267,CobraMkIV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkIV,1,I,
-128672268,CobraMkIV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkIV,1,I,
+128672257,Viper_MkIV_Armour_Grade1,standard,Lightweight Alloy,,,Viper Mk IV,1,I,
+128672258,Viper_MkIV_Armour_Grade2,standard,Reinforced Alloy,,,Viper Mk IV,1,I,
+128672259,Viper_MkIV_Armour_Grade3,standard,Military Grade Composite,,,Viper Mk IV,1,I,
+128672260,Viper_MkIV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Viper Mk IV,1,I,
+128672261,Viper_MkIV_Armour_Reactive,standard,Reactive Surface Composite,,,Viper Mk IV,1,I,
+128672264,CobraMkIV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra Mk IV,1,I,
+128672265,CobraMkIV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra Mk IV,1,I,
+128672266,CobraMkIV_Armour_Grade3,standard,Military Grade Composite,,,Cobra Mk IV,1,I,
+128672267,CobraMkIV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra Mk IV,1,I,
+128672268,CobraMkIV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra Mk IV,1,I,
 128672271,Independant_Trader_Armour_Grade1,standard,Lightweight Alloy,,,Keelback,1,I,
 128672272,Independant_Trader_Armour_Grade2,standard,Reinforced Alloy,,,Keelback,1,I,
 128672273,Independant_Trader_Armour_Grade3,standard,Military Grade Composite,,,Keelback,1,I,
@@ -925,11 +925,11 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128793943,Int_DroneControl_Decontamination_Size5_Class1,internal,Decontamination Limpet Controller,,,,5,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128793944,Int_DroneControl_Decontamination_Size7_Class1,internal,Decontamination Limpet Controller,,,,7,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128808878,Hpt_XenoScannerMk2_Basic_Tiny,utility,Enhanced Xeno Scanner,,,,0,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128816569,Krait_MkII_Armour_Grade1,standard,Lightweight Alloy,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128816570,Krait_MkII_Armour_Grade2,standard,Reinforced Alloy,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128816571,Krait_MkII_Armour_Grade3,standard,Military Grade Composite,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128816572,Krait_MkII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128816573,Krait_MkII_Armour_Reactive,standard,Reactive Surface Composite,,,Krait MkII,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816569,Krait_MkII_Armour_Grade1,standard,Lightweight Alloy,,,Krait Mk II,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816570,Krait_MkII_Armour_Grade2,standard,Reinforced Alloy,,,Krait Mk II,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816571,Krait_MkII_Armour_Grade3,standard,Military Grade Composite,,,Krait Mk II,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816572,Krait_MkII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Krait Mk II,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128816573,Krait_MkII_Armour_Reactive,standard,Reactive Surface Composite,,,Krait Mk II,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816576,TypeX_Armour_Grade1,standard,Lightweight Alloy,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816577,TypeX_Armour_Grade2,standard,Reinforced Alloy,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816578,TypeX_Armour_Grade3,standard,Military Grade Composite,,,Alliance Chieftain,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
