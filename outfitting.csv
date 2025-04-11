@@ -1130,3 +1130,8 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,
 129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,
 129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,
+129031231,CobraMkV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra MkV,1,I,
+129031232,CobraMkV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra MkV,1,I,
+129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkV,1,I,
+129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkV,1,I,
+129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkV,1,I,
