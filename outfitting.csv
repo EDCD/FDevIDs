@@ -1125,3 +1125,8 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129030598,Int_Hyperdrive_Overcharge_Size7_Class2,standard,Frame Shift Drive (SCO),,,,7,D,
 129030599,Int_Hyperdrive_Overcharge_Size7_Class4,standard,Frame Shift Drive (SCO),,,,7,B,
 129030600,Int_Hyperdrive_Overcharge_Size7_Class5,standard,Frame Shift Drive (SCO),,,,7,A,
+129030681,Mandalay_Armour_Grade1,standard,Lightweight Alloy,,,Mandalay,1,I,
+129030682,Mandalay_Armour_Grade2,standard,Reinforced Alloy,,,Mandalay,1,I,
+129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,
+129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,
+129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,
