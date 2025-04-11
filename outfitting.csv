@@ -1135,3 +1135,8 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkV,1,I,
 129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkV,1,I,
 129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkV,1,I,
+129031322,Corsair_Armour_Grade1,standard,Lightweight Alloy,,,Corsair,1,I,
+129031323,Corsair_Armour_Grade2,standard,Reinforced Alloy,,,Corsair,1,I,
+129031324,Corsair_Armour_Grade3,standard,Military Grade Composite,,,Corsair,1,I,
+129031325,Corsair_Armour_Mirrored,standard,Mirrored Surface Composite,,,Corsair,1,I,
+129031326,Corsair_Armour_Reactive,standard,Reactive Surface Composite,,,Corsair,1,I,
