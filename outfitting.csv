@@ -1085,22 +1085,22 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129028577,Hpt_Human_Extraction_Fixed_Medium,hardpoint,Sub-Surface Extraction Missile,Fixed,Seeker,,2,B,
 129030049,Hpt_ATVentDisruptorPylon_Fixed_Medium,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,2,I,
 129030050,Hpt_ATVentDisruptorPylon_Fixed_Large,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,3,I,
-129030466,Python_NX_Armour_Grade1,standard,Lightweight Alloy,,,Python MkII,1,I,
-129030467,Python_NX_Armour_Grade2,standard,Reinforced Alloy,,,Python MkII,1,I,
-129030468,Python_NX_Armour_Grade3,standard,Military Grade Composite,,,Python MkII,1,I,
-129030469,Python_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Python MkII,1,I,
-129030470,Python_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Python MkII,1,I,
+129030466,Python_NX_Armour_Grade1,standard,Lightweight Alloy,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030467,Python_NX_Armour_Grade2,standard,Reinforced Alloy,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030468,Python_NX_Armour_Grade3,standard,Military Grade Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030469,Python_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030470,Python_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
 129030474,Int_Hyperdrive_Overcharge_Size5_Class3,standard,Frame Shift Drive (SCO),,,,5,C,
 129030483,Int_Hyperdrive_Overcharge_Size7_Class3,standard,Frame Shift Drive (SCO),,,,7,C,
 129030484,Int_Hyperdrive_Overcharge_Size6_Class3,standard,Frame Shift Drive (SCO),,,,6,C,
 129030485,Int_Hyperdrive_Overcharge_Size4_Class3,standard,Frame Shift Drive (SCO),,,,4,C,
 129030486,Int_Hyperdrive_Overcharge_Size3_Class3,standard,Frame Shift Drive (SCO),,,,3,C,
 129030487,Int_Hyperdrive_Overcharge_Size2_Class3,standard,Frame Shift Drive (SCO),,,,2,C,
-129030535,Type8_Armour_Grade1,standard,Lightweight Alloy,,,Type-8 Transporter,1,I,
-129030536,Type8_Armour_Grade2,standard,Reinforced Alloy,,,Type-8 Transporter,1,I,
-129030537,Type8_Armour_Grade3,standard,Military Grade Composite,,,Type-8 Transporter,1,I,
-129030538,Type8_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-8 Transporter,1,I,
-129030539,Type8_Armour_Reactive,standard,Reactive Surface Composite,,,Type-8 Transporter,1,I,
+129030535,Type8_Armour_Grade1,standard,Lightweight Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030536,Type8_Armour_Grade2,standard,Reinforced Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030537,Type8_Armour_Grade3,standard,Military Grade Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030538,Type8_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030539,Type8_Armour_Reactive,standard,Reactive Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
 129030577,Int_Hyperdrive_Overcharge_Size2_Class1,standard,Frame Shift Drive (SCO),,,,2,E,
 129030578,Int_Hyperdrive_Overcharge_Size2_Class2,standard,Frame Shift Drive (SCO),,,,2,D,
 129030579,Int_Hyperdrive_Overcharge_Size2_Class4,standard,Frame Shift Drive (SCO),,,,2,B,
@@ -1125,3 +1125,18 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129030598,Int_Hyperdrive_Overcharge_Size7_Class2,standard,Frame Shift Drive (SCO),,,,7,D,
 129030599,Int_Hyperdrive_Overcharge_Size7_Class4,standard,Frame Shift Drive (SCO),,,,7,B,
 129030600,Int_Hyperdrive_Overcharge_Size7_Class5,standard,Frame Shift Drive (SCO),,,,7,A,
+129030681,Mandalay_Armour_Grade1,standard,Lightweight Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030682,Mandalay_Armour_Grade2,standard,Reinforced Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129031231,CobraMkV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031232,CobraMkV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031322,Corsair_Armour_Grade1,standard,Lightweight Alloy,,,Corsair,1,I,ELITE_V_CORSAIR
+129031323,Corsair_Armour_Grade2,standard,Reinforced Alloy,,,Corsair,1,I,ELITE_V_CORSAIR
+129031324,Corsair_Armour_Grade3,standard,Military Grade Composite,,,Corsair,1,I,ELITE_V_CORSAIR
+129031325,Corsair_Armour_Mirrored,standard,Mirrored Surface Composite,,,Corsair,1,I,ELITE_V_CORSAIR
+129031326,Corsair_Armour_Reactive,standard,Reactive Surface Composite,,,Corsair,1,I,ELITE_V_CORSAIR
