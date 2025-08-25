@@ -116,6 +116,12 @@ This will produce output like:
       "rel": "VisitedStars",
       "type": "GET",
       "title": "Download an zip archive containing the player's VisitedStarsCache.dat file. Status 102 indicates the file is being generated in the background, try again in a couple of minutes"
+    },
+    {
+      "href": "/squadron",
+      "rel": "Squadron",
+      "type": "GET",
+      "title": "Describe the squadron your Commander is currently a member of, if any. add ?language=[$supportedLanguages] to translate names"
     }
   ]
 }
