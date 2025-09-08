@@ -74,50 +74,56 @@ to the CAPI host, i.e. `/` path component as in <https://companion.orerve.net/>.
 This will produce output like:
 ```json
 {
-  "links": [
-    {
-      "href": "/profile",
-      "rel": "CommanderProfile",
-      "type": "GET",
-      "title": "Commander profile, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
-    },
-    {
-      "href": "/market",
-      "rel": "CommodityMarket",
-      "type": "GET",
-      "title": "Last docked commodity market, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
-    },
-    {
-      "href": "/shipyard",
-      "rel": "Shipyard",
-      "type": "GET",
-      "title": "Last docked shipyard and outfitting"
-    },
-    {
-      "href": "/communitygoals",
-      "rel": "CommunityGoals",
-      "type": "GET",
-      "title": "Details on all currently active Community Goals and any contributions from this Commander, add ?language=[en|fr|de|ru|es|pt] to translate descriptions"
-    },
-    {
-      "href": "/journal",
-      "rel": "Journal",
-      "type": "GET",
-      "title": "Log lines from Commander Journal file, add (/:year(/:month(/:day))) to ask if previous journals are available"
-    },
-    {
-      "href": "/fleetcarrier",
-      "rel": "FleetCarrier",
-      "type": "GET",
-      "title": "Information about Commander's fleet carrier, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
-    },
-    {
-      "href": "/visitedstars",
-      "rel": "VisitedStars",
-      "type": "GET",
-      "title": "Download an zip archive containing the player's VisitedStarsCache.dat file. Status 102 indicates the file is being generated in the background, try again in a couple of minutes"
-    }
-  ]
+    "links": [
+        {
+            "href": "/profile",
+            "rel": "CommanderProfile",
+            "type": "GET",
+            "title": "Commander profile, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
+        },
+        {
+            "href": "/market",
+            "rel": "CommodityMarket",
+            "type": "GET",
+            "title": "Last docked commodity market, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
+        },
+        {
+            "href": "/shipyard",
+            "rel": "Shipyard",
+            "type": "GET",
+            "title": "Last docked shipyard and outfitting"
+        },
+        {
+            "href": "/communitygoals",
+            "rel": "CommunityGoals",
+            "type": "GET",
+            "title": "Details on all currently active Community Goals and any contributions from this Commander, add ?language=[en|fr|de|ru|es|pt] to translate descriptions"
+        },
+        {
+            "href": "/journal",
+            "rel": "Journal",
+            "type": "GET",
+            "title": "Log lines from Commander Journal file, add (/:year(/:month(/:day))) to ask if previous journals are available"
+        },
+        {
+            "href": "/fleetcarrier",
+            "rel": "FleetCarrier",
+            "type": "GET",
+            "title": "Information about Commander's fleet carrier, add ?language=[en|fr|de|ru|es|pt] to translate locName and LocDescriptions"
+        },
+        {
+            "href": "/visitedstars",
+            "rel": "VisitedStars",
+            "type": "GET",
+            "title": "Download an zip archive containing the player's VisitedStarsCache.dat file. Status 102 indicates the file is being generated in the background, try again in a couple of minutes"
+        },
+        {
+            "href": "/squadron",
+            "rel": "Squadron",
+            "type": "GET",
+            "title": "Describe the squadron your Commander is currently a member of, if any. add ?language=[$supportedLanguages] to translate names"
+        }
+    ]
 }
 ```
 
