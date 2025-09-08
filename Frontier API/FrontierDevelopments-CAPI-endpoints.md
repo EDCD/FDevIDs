@@ -667,7 +667,7 @@ Get data about the current commander's squadron, if any. Contains information ab
 1. `full` - 0 = not full, 1 = full
 1. `description` - Player set squadron description
 1. `motto` - Player set squadron motto,
-1. `isMentoring` - UNCLEAR (NEED INPUT)
+1. `isMentoring` - Has the squad leader enabled mentoring
 1. `perks` - Active squadron perks
     1. `primary` - Primary perk name
     1. `secondary` - Secondary perk name
