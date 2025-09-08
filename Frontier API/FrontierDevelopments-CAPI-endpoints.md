@@ -641,6 +641,85 @@ To know what kind of output you can except from the `/journal` endpoint, we reco
 
 ---
 
+## Squadron
+
+    	GET <https://companion.orerve.net/squadron>
+
+Get data about the current commander's squadron, if any. Contains information about the squadron (name, alignments, perks), squadron carrier (name, livery, locations, crew) & members.
+
+1. `id` - Squadron ID
+1. `name` - Squadron Name
+1. `tag` - 4-Letter Squadron tag
+1. `ownerId` - Numerical player Id of the owner
+1. `platform` - Game platform. Only `PC`
+1. `created` - timestamp of squad creation
+1. `acceptingNewMembers` - 1 = accepting, 0 = not accepting
+1. `powerId` - Id of aligned power, or `null`
+1. `powerName` - Name of aligned power, or `""`
+1. `superpowerId` - Id of aligned superpower, or `4` for independent
+1. `superpowerName` - Name of aligned superpower
+1. `factionId` - Id of aligned faction
+1. `factionName` - Name of aligned faction
+1. `factionHomeSystemId` - Numerical system Id of faction's home system
+1. `factionHomeSystemName` - Name of faction's home system
+1. `userTags` - UNCLEAR (NEED INPUT)
+1. `memberCount` - Number of squad members
+1. `full` - 0 = not full, 1 = full
+1. `description` - Player set squadron description
+1. `motto` - Player set squadron motto,
+1. `isMentoring` - UNCLEAR (NEED INPUT)
+1. `perks` - Active squadron perks
+    1. `primary` - Primary perk name
+    1. `secondary` - Secondary perk name
+    1. `cooldowns` - Perk cooldowns 
+        1. `primary` - Primary perk cooldown
+        1. `secondary` - Secondary perk cooldown
+1. `active7days` - No. of players active in the last 7 days
+1. `active30days` - No. of players active in the last 30 days
+1. `squadronCarrier` - Data about the squad carrier (if any)
+    1. `name`
+        1. `callsign` - 4-letter callsign, same as `tag`
+        1. `vanityName` - Carrier name, hex encoded
+        1. `filteredVanityName` - Filtered carrier name, hex encoded
+    1. `currentStarSystem` - Current carrier system name
+    1. `balance` - Carrier bank balance 
+    1. `fuel` - Carrier fuel (out of 1000)
+    1. `state` - Carrier state. E.g `normalOperation`
+    1. `theme` - Livery, if any
+    1. `dockingAccess` - `squadron` (presumably left over from fleet carriers)
+    1. `notoriousAccess` - boolean
+    1. `capacity` - Carrier storage capatity
+        1. `shipPacks` - Space being used by ship packs
+        1. `modulePacks` - Space being used by module packs
+        1. `cargoForSale` - Space being used by sellable cargo (possibly always 0, as squad carriers cannot sell cargo)
+        1. `cargoNotForSale` - Space being used by unsellable cargo (stored)
+        1. `crew` - Space being used by services
+        1. `freeSpace` - Free space
+        1. `microresourceCapacityTotal` - Space available for on foot resources
+        1. `microresourceCapacityFree` - Space unused by stored on foot resources
+        1. `microresourceCapacityUsed` - Space used by stored on foot resources
+        1. `microresourceCapacityReserved` - UNCLEAR (NEED INPUT)
+        1. `squadronBankTotal` - Credits in the squadron bank
+    1. `itinerary` - Info about carrier movements
+        1. `completed` - Array of completed jumps
+            1. `departureTime` - time jump was 'locked in' (un-cancelable)
+            1. `arrivalTime` - Time carrier arrived in-system
+            1. `state` - Jump result. E.g `success`
+            1. `visitDurationSeconds` - Time carrier was in-system, in seconds
+            1. `starsystem` - Name of destination star system
+        1. `totalDistanceJumpedLY` - Total distance of all jumps
+        1. `currentJump` - Info on the current jump, if any
+    1. `marketFinances` - Info on carrier market, unused for squad carriers
+    1. `blackmarketFinances` - Info on carrier black market, unused for squad carriers
+    1. `finance` - Info about the carrier's bank
+        1. `bankBalance` - Available funds (credits)
+        1. `bankReservedBalance` - Reserved funds (credits)
+        1. `taxation` - Tax percentage on carrier services
+        1. `service_taxation` - Service spesific tax percentages (dictionary)
+        1. 
+
+---
+
 ## HTTP Status Codes
 
 1. 401 - Unauthorized - Since the 'September Update' patch on 2019-09-17
