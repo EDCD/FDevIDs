@@ -702,8 +702,8 @@ Get data about the current commander's squadron, if any. Contains information ab
         1. `squadronBankTotal` - Credits in the squadron bank
     1. `itinerary` - Info about carrier movements
         1. `completed` - Array of completed jumps
-            1. `departureTime` - time jump was 'locked in' (un-cancelable)
-            1. `arrivalTime` - Time carrier arrived in-system
+            1. `departureTime` - Timestamp jump was 'locked in' (un-cancelable)
+            1. `arrivalTime` - Timestamp carrier arrived in-system
             1. `state` - Jump result. E.g `success`
             1. `visitDurationSeconds` - Time carrier was in-system, in seconds
             1. `starsystem` - Name of destination star system
@@ -716,8 +716,41 @@ Get data about the current commander's squadron, if any. Contains information ab
         1. `bankReservedBalance` - Reserved funds (credits)
         1. `taxation` - Tax percentage on carrier services
         1. `service_taxation` - Service spesific tax percentages (dictionary)
-        1. 
-
+        1. `numServices` - Number of installed services
+        1. `numOptionalServices` - UNCLEAR (NEED INPUT)
+        1. `debtThreshold` - Negative integer, threshold at which the carrier will be decommissioned.
+        1. `maintenance` - Weekly upkeep cost
+        1. `maintenanceToDate` - Total funds used by the carrier in its life
+        1. `coreCost` - Core upkeep, in credits
+        1. `servicesCost` - Services upkeep, in credits
+        1. `servicesCostToDate` - Services upkeep over the carriers life
+        1. `jumpsCost` - Cost of jumps since last weekly tick
+        1. `numJumps` - Jumps since last weekly tick
+        1. `bartender` - Data about installed bar, if any
+        1. `servicesCrew` - Servies installed in the carrier
+            1. service name - E.g `shipyard`, `refuel`, `repair`
+                1. `crewMember`
+                    1. `name` - Crew member name (sometimes blank)
+                    1. `gender` - `M` or `F`
+                    1. `faction` - Faction crew member came from, possibly determined by system the service was installed in?
+                    1. `salary` - Weekly service upkeep
+                    1. `hiringPrice` - Cost of service installation
+                    1. `lastEdit` - Timestamp of last service edit
+                1. `invoicesWeekToDate` - Weekly upkeep payments (Array of objects)
+                    1. `wages` - Cost, in credits
+                    1. `from` - Timestamp of start
+                    1. `until` - Timestamp of end
+                    1. `type` - `current` (In progress) or `expected` (now until week end)
+                1. `status`: Service status, e.g `ok`
+        1. `cargo` - Array of cargo items, if any
+        1. `orders` - Market requests, always empty becuase squad carriers have no market
+        1. `carrierLocker` - On foot resources stored on the carrier
+        1. `reputation` - Reputation with major superpowers
+            1. `majorFaction` - Superpower name
+            1. `score` - Integer score, default 100
+        1. `members` - Array of squadron members
+            1. 
+                    
 ---
 
 ## HTTP Status Codes
