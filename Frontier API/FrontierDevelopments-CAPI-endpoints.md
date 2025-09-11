@@ -656,8 +656,8 @@ Get data about the current commander's squadron, if any. Contains information ab
 1. `acceptingNewMembers` - 1 = accepting, 0 = not accepting
 1. `powerId` - Id of aligned power, or `null`
 1. `powerName` - Name of aligned power, or `""`
-1. `superpowerId` - Id of aligned superpower, or `4` for independent
-1. `superpowerName` - Name of aligned superpower
+1. `superpowerId` - Id of aligned superpower, or `0` if not aligned with any (anarchy)
+1. `superpowerName` - Name of aligned superpower, or `None` if not aligned with any (anarchy)
 1. `factionId` - Id of aligned faction
 1. `factionName` - Name of aligned faction
 1. `factionHomeSystemId` - Numerical system Id of faction's home system. Different to `SystemAddress` from the Journal
