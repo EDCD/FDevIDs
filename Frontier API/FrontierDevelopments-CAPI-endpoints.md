@@ -660,9 +660,9 @@ Get data about the current commander's squadron, if any. Contains information ab
 1. `superpowerName` - Name of aligned superpower
 1. `factionId` - Id of aligned faction
 1. `factionName` - Name of aligned faction
-1. `factionHomeSystemId` - Numerical system Id of faction's home system
+1. `factionHomeSystemId` - Numerical system Id of faction's home system. Different to `SystemAddress` from the Journal
 1. `factionHomeSystemName` - Name of faction's home system
-1. `userTags` - UNCLEAR (NEED INPUT)
+1. `userTags` - Tags that the squadron has chosen. e.g. Combat or Trade. (Array of integers)
 1. `memberCount` - Number of squad members
 1. `full` - 0 = not full, 1 = full
 1. `description` - Player set squadron description
@@ -748,33 +748,33 @@ Get data about the current commander's squadron, if any. Contains information ab
         1. `reputation` - Reputation with major superpowers
             1. `majorFaction` - Superpower name
             1. `score` - Integer score, default 100
-        1. `members` - Array of squadron members
-            1. `squadron_id` - Id of current squad, same as `id`
-            1. `member_id` - Squadron member Id
-            1. `joined` - Timestamp when player joined this squadron
-            1. `expires_ts` - UNCLEAR (NEED INPUT)
-            1. `status` - `MEMBER` (in squadron), `APPROVED` (allowed to join, need to accept)
-            1. `requested` - Timestamp when they requested to join
-            1. `requested_ts` - Unix timestamp when they requested to join
-            1. `rank_id` - Numerical Rank ID
-            1. `requestletter` - Hex encoded message sent with join request
-            1. `credit_contributions` - Credits deposited in squad bank
-            1. `presence` - UNCLEAR (NEED INPUT)
-            1. `biography` - Hex encoded player "bio", if any
-            1. `user_id` - Player Id
-            1. `rankCombat`/`rankExplore`/`rankTrade`/`rankCqc` - Player ranks (seperate entries)
-            1. `soldierRank`/`exobiologistRank`/`empireRank`/`federationRank`/powerRank` Player Ranks (Seperate entries)
-            1. `powerId` - Player's pledged power, or `null` if not pledged
-            1. `lastOnline` - Timestamp player was last online
-            1. `lastOnline_ts` - Unix timestamp player was last online
-            1. `name` - Hex encoded commander name
-            1. `lastLocationId` - Last seen star system id, or `null` if the player has hidden it
-            1. `lastLocation` - Last seen star system name, or `$Squadrons_Roster_Activity_HiddenLocation;` if hidden. Hex encoded
-            1. `shipName` - Last used ship name
-            1. `shipModel` - Last used ship type. E.g `Diamondback Explorer`
-            1. `userPlayTime` - How many minutes the player has been online
-            1. `systemAddr` - `0` (Unknown use)
-            1. `avatarXml` - Player's avatar, in xml
+1. `members` - Array of squadron members
+    1. `squadron_id` - Id of current squad, same as `id`
+    1. `member_id` - Squadron member Id
+    1. `joined` - Timestamp when player joined this squadron
+    1. `expires_ts` - UNCLEAR (NEED INPUT)
+    1. `status` - `MEMBER` (in squadron), `APPROVED` (allowed to join, need to accept)
+    1. `requested` - Timestamp when they requested to join
+    1. `requested_ts` - Unix timestamp when they requested to join
+    1. `rank_id` - Numerical Rank ID
+    1. `requestletter` - Hex encoded message sent with join request
+    1. `credit_contributions` - Credits deposited in squad bank
+    1. `presence` - UNCLEAR (NEED INPUT)
+    1. `biography` - Hex encoded player "bio", if any
+    1. `user_id` - Player Id
+    1. `rankCombat`/`rankExplore`/`rankTrade`/`rankCqc` - Player ranks (seperate entries)
+    1. `soldierRank`/`exobiologistRank`/`empireRank`/`federationRank`/`powerRank` Player Ranks (Seperate entries)
+    1. `powerId` - Player's pledged power, or `null` if not pledged
+    1. `lastOnline` - Timestamp player was last online
+    1. `lastOnline_ts` - Unix timestamp player was last online
+    1. `name` - Hex encoded commander name
+    1. `lastLocationId` - Last seen star system id, or `null` if the player has hidden it
+    1. `lastLocation` - Last seen star system name, or `$Squadrons_Roster_Activity_HiddenLocation;` if hidden. Hex encoded
+    1. `shipName` - Last used ship name
+    1. `shipModel` - Last used ship type. E.g `Diamondback Explorer`
+    1. `userPlayTime` - How many minutes the player has been online
+    1. `systemAddr` - `0` (Unknown use)
+    1. `avatarXml` - Player's avatar, in xml
 1. `bank` - Squadron bank
     1. `credits`
         1. `All` - Credits any member can access
