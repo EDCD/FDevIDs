@@ -1147,3 +1147,10 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129034275,PantherMkII_Armour_Reactive,standard,Reactive Surface Composite,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
 129034963,Int_LargeCargoRack_Size7_Class1,internal,Mk II Cargo Rack,,,,7,D,
 129034964,Int_LargeCargoRack_Size8_class1,internal,Mk II Cargo Rack,,,,8,D,
+129036132,LakonMiner_Armour_Grade1,standard,Lightweight Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036133,LakonMiner_Armour_Grade2,standard,Reinforced Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036134,LakonMiner_Armour_Grade3,standard,Military Grade Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036135,LakonMiner_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036136,LakonMiner_Armour_Reactive,standard,Reactive Surface Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036137,Hpt_MiningToolV2_Fixed_Large,hardpoint,Mining Volley Repeater,Fixed,,,3,C,
+129036138,Int_MultiDroneControl_MiningV2_Size5_Class5,internal,Mk II Mining Multi-Limpet Controller,,,,5,A,
