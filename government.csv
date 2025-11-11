@@ -14,3 +14,5 @@ $government_PrisonColony;,Prison Colony
 $government_Theocracy;,Theocracy
 $government_Engineer;,Engineer
 $government_Carrier;,Private Ownership
+$government_Prison;,Prison
+$government_Megaconstruction;,Megaconstruction
