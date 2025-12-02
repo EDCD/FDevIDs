@@ -1154,3 +1154,16 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129036136,LakonMiner_Armour_Reactive,standard,Reactive Surface Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
 129036137,Hpt_MiningToolV2_Fixed_Large,hardpoint,Mining Volley Repeater,Fixed,,,3,C,
 129036138,Int_MultiDroneControl_MiningV2_Size5_Class5,internal,Mk II Mining Multi-Limpet Controller,,,,5,A,
+129036571,Explorer_NX_Armour_Grade1,standard,Mk II Ablative Lightweight Alloys,,,Caspian Explorer,1,C,ELITE_V_EXPLORER_NX
+129036572,Explorer_NX_Armour_Grade2,standard,Mk II Ablative Reinforced Alloys,,,Caspian Explorer,1,B,ELITE_V_EXPLORER_NX
+129036573,Explorer_NX_Armour_Grade3,standard,Mk II Ablative Military Grade Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036574,Explorer_NX_Armour_Mirrored,standard,Mk II Ablative Mirrored Surface Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036575,Explorer_NX_Armour_Reactive,standard,Mk II Ablative Reactive Surface Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036576,Int_Hyperdrive_Overcharge_Size8_Class1,standard,Frame Shift Drive (SCO),,,,8,E,
+129036577,Int_Hyperdrive_Overcharge_Size8_Class2,standard,Frame Shift Drive (SCO),,,,8,D,
+129036578,Int_Hyperdrive_Overcharge_Size8_Class3,standard,Frame Shift Drive (SCO),,,,8,C,
+129036579,Int_Hyperdrive_Overcharge_Size8_Class4,standard,Frame Shift Drive (SCO),,,,8,B,
+129036580,Int_Hyperdrive_Overcharge_Size8_Class5,standard,Frame Shift Drive (SCO),,,,8,A,
+129036581,Explorer_NX_Armour_Grade1_Default,standard,Lightweight Alloy,,,Caspian Explorer,1,C,ELITE_V_EXPLORER_NX
+129038968,Int_Hyperdrive_Overcharge_Size8_Class5_OverchargeBooster_MkII,standard,Mk II Supercharge Optimised Frame Shift Drive (SCO),,,,8,A,
+129039228,Int_Engine_Size7_Class5_GravityOptimised_MkII,standard,Mk II Gravity Optimised Thrusters,,,,7,A,
