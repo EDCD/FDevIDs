@@ -1085,3 +1085,85 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129028577,Hpt_Human_Extraction_Fixed_Medium,hardpoint,Sub-Surface Extraction Missile,Fixed,Seeker,,2,B,
 129030049,Hpt_ATVentDisruptorPylon_Fixed_Medium,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,2,I,
 129030050,Hpt_ATVentDisruptorPylon_Fixed_Large,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,3,I,
+129030466,Python_NX_Armour_Grade1,standard,Lightweight Alloy,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030467,Python_NX_Armour_Grade2,standard,Reinforced Alloy,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030468,Python_NX_Armour_Grade3,standard,Military Grade Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030469,Python_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030470,Python_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Python MkII,1,I,ELITE_V_PYTHON_NX
+129030474,Int_Hyperdrive_Overcharge_Size5_Class3,standard,Frame Shift Drive (SCO),,,,5,C,
+129030483,Int_Hyperdrive_Overcharge_Size7_Class3,standard,Frame Shift Drive (SCO),,,,7,C,
+129030484,Int_Hyperdrive_Overcharge_Size6_Class3,standard,Frame Shift Drive (SCO),,,,6,C,
+129030485,Int_Hyperdrive_Overcharge_Size4_Class3,standard,Frame Shift Drive (SCO),,,,4,C,
+129030486,Int_Hyperdrive_Overcharge_Size3_Class3,standard,Frame Shift Drive (SCO),,,,3,C,
+129030487,Int_Hyperdrive_Overcharge_Size2_Class3,standard,Frame Shift Drive (SCO),,,,2,C,
+129030535,Type8_Armour_Grade1,standard,Lightweight Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030536,Type8_Armour_Grade2,standard,Reinforced Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030537,Type8_Armour_Grade3,standard,Military Grade Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030538,Type8_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030539,Type8_Armour_Reactive,standard,Reactive Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030577,Int_Hyperdrive_Overcharge_Size2_Class1,standard,Frame Shift Drive (SCO),,,,2,E,
+129030578,Int_Hyperdrive_Overcharge_Size2_Class2,standard,Frame Shift Drive (SCO),,,,2,D,
+129030579,Int_Hyperdrive_Overcharge_Size2_Class4,standard,Frame Shift Drive (SCO),,,,2,B,
+129030580,Int_Hyperdrive_Overcharge_Size2_Class5,standard,Frame Shift Drive (SCO),,,,2,A,
+129030581,Int_Hyperdrive_Overcharge_Size3_Class1,standard,Frame Shift Drive (SCO),,,,3,E,
+129030582,Int_Hyperdrive_Overcharge_Size3_Class2,standard,Frame Shift Drive (SCO),,,,3,D,
+129030583,Int_Hyperdrive_Overcharge_Size3_Class4,standard,Frame Shift Drive (SCO),,,,3,B,
+129030584,Int_Hyperdrive_Overcharge_Size3_Class5,standard,Frame Shift Drive (SCO),,,,3,A,
+129030585,Int_Hyperdrive_Overcharge_Size4_Class1,standard,Frame Shift Drive (SCO),,,,4,E,
+129030586,Int_Hyperdrive_Overcharge_Size4_Class2,standard,Frame Shift Drive (SCO),,,,4,D,
+129030587,Int_Hyperdrive_Overcharge_Size4_Class4,standard,Frame Shift Drive (SCO),,,,4,B,
+129030588,Int_Hyperdrive_Overcharge_Size4_Class5,standard,Frame Shift Drive (SCO),,,,4,A,
+129030589,Int_Hyperdrive_Overcharge_Size5_Class1,standard,Frame Shift Drive (SCO),,,,5,E,
+129030590,Int_Hyperdrive_Overcharge_Size5_Class2,standard,Frame Shift Drive (SCO),,,,5,D,
+129030591,Int_Hyperdrive_Overcharge_Size5_Class4,standard,Frame Shift Drive (SCO),,,,5,B,
+129030592,Int_Hyperdrive_Overcharge_Size5_Class5,standard,Frame Shift Drive (SCO),,,,5,A,
+129030593,Int_Hyperdrive_Overcharge_Size6_Class1,standard,Frame Shift Drive (SCO),,,,6,E,
+129030594,Int_Hyperdrive_Overcharge_Size6_Class2,standard,Frame Shift Drive (SCO),,,,6,D,
+129030595,Int_Hyperdrive_Overcharge_Size6_Class4,standard,Frame Shift Drive (SCO),,,,6,B,
+129030596,Int_Hyperdrive_Overcharge_Size6_Class5,standard,Frame Shift Drive (SCO),,,,6,A,
+129030597,Int_Hyperdrive_Overcharge_Size7_Class1,standard,Frame Shift Drive (SCO),,,,7,E,
+129030598,Int_Hyperdrive_Overcharge_Size7_Class2,standard,Frame Shift Drive (SCO),,,,7,D,
+129030599,Int_Hyperdrive_Overcharge_Size7_Class4,standard,Frame Shift Drive (SCO),,,,7,B,
+129030600,Int_Hyperdrive_Overcharge_Size7_Class5,standard,Frame Shift Drive (SCO),,,,7,A,
+129030681,Mandalay_Armour_Grade1,standard,Lightweight Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030682,Mandalay_Armour_Grade2,standard,Reinforced Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129031231,CobraMkV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031232,CobraMkV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra MkV,1,I,ELITE_V_COBRA_MKV
+129031322,Corsair_Armour_Grade1,standard,Lightweight Alloy,,,Corsair,1,I,ELITE_V_CORSAIR
+129031323,Corsair_Armour_Grade2,standard,Reinforced Alloy,,,Corsair,1,I,ELITE_V_CORSAIR
+129031324,Corsair_Armour_Grade3,standard,Military Grade Composite,,,Corsair,1,I,ELITE_V_CORSAIR
+129031325,Corsair_Armour_Mirrored,standard,Mirrored Surface Composite,,,Corsair,1,I,ELITE_V_CORSAIR
+129031326,Corsair_Armour_Reactive,standard,Reactive Surface Composite,,,Corsair,1,I,ELITE_V_CORSAIR
+129034271,PantherMkII_Armour_Grade1,standard,Lightweight Alloy,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
+129034272,PantherMkII_Armour_Grade2,standard,Reinforced Alloy,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
+129034273,PantherMkII_Armour_Grade3,standard,Military Grade Composite,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
+129034274,PantherMkII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
+129034275,PantherMkII_Armour_Reactive,standard,Reactive Surface Composite,,,Panther Clipper MkII,1,I,ELITE_V_PANTHER_MKII
+129034963,Int_LargeCargoRack_Size7_Class1,internal,Mk II Cargo Rack,,,,7,D,
+129034964,Int_LargeCargoRack_Size8_class1,internal,Mk II Cargo Rack,,,,8,D,
+129036132,LakonMiner_Armour_Grade1,standard,Lightweight Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036133,LakonMiner_Armour_Grade2,standard,Reinforced Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036134,LakonMiner_Armour_Grade3,standard,Military Grade Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036135,LakonMiner_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036136,LakonMiner_Armour_Reactive,standard,Reactive Surface Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
+129036137,Hpt_MiningToolV2_Fixed_Large,hardpoint,Mining Volley Repeater,Fixed,,,3,C,
+129036138,Int_MultiDroneControl_MiningV2_Size5_Class5,internal,Mk II Mining Multi-Limpet Controller,,,,5,A,
+129036571,Explorer_NX_Armour_Grade1,standard,Mk II Ablative Lightweight Alloys,,,Caspian Explorer,1,C,ELITE_V_EXPLORER_NX
+129036572,Explorer_NX_Armour_Grade2,standard,Mk II Ablative Reinforced Alloys,,,Caspian Explorer,1,B,ELITE_V_EXPLORER_NX
+129036573,Explorer_NX_Armour_Grade3,standard,Mk II Ablative Military Grade Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036574,Explorer_NX_Armour_Mirrored,standard,Mk II Ablative Mirrored Surface Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036575,Explorer_NX_Armour_Reactive,standard,Mk II Ablative Reactive Surface Composite,,,Caspian Explorer,1,A,ELITE_V_EXPLORER_NX
+129036576,Int_Hyperdrive_Overcharge_Size8_Class1,standard,Frame Shift Drive (SCO),,,,8,E,
+129036577,Int_Hyperdrive_Overcharge_Size8_Class2,standard,Frame Shift Drive (SCO),,,,8,D,
+129036578,Int_Hyperdrive_Overcharge_Size8_Class3,standard,Frame Shift Drive (SCO),,,,8,C,
+129036579,Int_Hyperdrive_Overcharge_Size8_Class4,standard,Frame Shift Drive (SCO),,,,8,B,
+129036580,Int_Hyperdrive_Overcharge_Size8_Class5,standard,Frame Shift Drive (SCO),,,,8,A,
+129036581,Explorer_NX_Armour_Grade1_Default,standard,Lightweight Alloy,,,Caspian Explorer,1,C,ELITE_V_EXPLORER_NX
+129038968,Int_Hyperdrive_Overcharge_Size8_Class5_OverchargeBooster_MkII,standard,Mk II Supercharge Optimised Frame Shift Drive (SCO),,,,8,A,
+129039228,Int_Engine_Size7_Class5_GravityOptimised_MkII,standard,Mk II Gravity Optimised Thrusters,,,,7,A,
