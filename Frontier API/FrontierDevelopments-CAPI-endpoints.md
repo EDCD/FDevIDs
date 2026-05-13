@@ -222,13 +222,13 @@ Where 'FDev ID' or 'FDev Symbol' is mentioned please see <https://github.com/EDC
 		   effects of the applied blueprint
 		1. `specialModifications`: "Special Effects", empty
 		   array if none
-	1. `launchBays`: Information about in-stock SRVs.  The top level key
+	1. `launchBays`: Information about in-stock SRVs and fighters.  The top level key
    defines slot and size.
-		1. `name`: 'testbuggy' for an SRV
-		1. `locName`: "SRV Scarab"
+		1. `name`: FDev vehicle ID, e.g. 'testbuggy'
+		1. `locName`: Localized vehicle description, e.g. 'SRV Scarab'
 		1. `rebuilds`: How many spares???
-		1. `loadout`: "starter"
-		1. `loadoutName`: "Starter" (Localised?)
+		1. `loadout`: FDev loadout ID, e.g. 'starter'
+		1. `loadoutName`: Localized loadout description, e.g. 'Starter'
 1. `ships`: Information about all ships the Commander owns.  NB: This
    could be a simple array (if all ship indexes are contiguous from
    `0`), or a dictionary indexed with a *string* version of the ship ID
