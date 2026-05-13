@@ -1167,3 +1167,24 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129036581,Explorer_NX_Armour_Grade1_Default,standard,Lightweight Alloy,,,Caspian Explorer,1,C,ELITE_V_EXPLORER_NX
 129038968,Int_Hyperdrive_Overcharge_Size8_Class5_OverchargeBooster_MkII,standard,Mk II Supercharge Optimised Frame Shift Drive (SCO),,,,8,A,
 129039228,Int_Engine_Size7_Class5_GravityOptimised_MkII,standard,Mk II Gravity Optimised Thrusters,,,,7,A,
+129039243,SmallCombat01_NX_Armour_Grade1,standard,Lightweight Alloy,,,Kestrel Mk II,1,C,ELITE_V_SMALL_COMBAT_01
+129039244,SmallCombat01_NX_Armour_Grade2,standard,Reinforced Alloy,,,Kestrel Mk II,1,B,ELITE_V_SMALL_COMBAT_01
+129039245,SmallCombat01_NX_Armour_Grade3,standard,Military Grade Composite,,,Kestrel Mk II,1,A,ELITE_V_SMALL_COMBAT_01
+129039246,SmallCombat01_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Kestrel Mk II,1,A,ELITE_V_SMALL_COMBAT_01
+129039247,SmallCombat01_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Kestrel Mk II,1,A,ELITE_V_SMALL_COMBAT_01
+129040538,Hpt_MkIIPlasmaShockAutocannon_Fixed_Large,hardpoint,Mk II Plasma Shock Accelerator,Fixed,,,3,B,
+129041074,Int_MkIIAgileBoost_Engine_Size5_Class5,standard,Mk II Agile Boost Thrusters,mount,,,5,A,
+129041444,MediumTransport01_Armour_Grade1,standard,Lightweight Alloy,,,Lynx Highliner,1,C,ELITE_V_MEDIUM_TRANSPORT_01
+129041445,MediumTransport01_Armour_Grade2,standard,Reinforced Alloy,,,Lynx Highliner,1,B,ELITE_V_MEDIUM_TRANSPORT_01
+129041446,MediumTransport01_Armour_Grade3,standard,Military Grade Composite,,,Lynx Highliner,1,A,ELITE_V_MEDIUM_TRANSPORT_01
+129041447,MediumTransport01_Armour_Mirrored,standard,Mirrored Surface Composite,,,Lynx Highliner,1,A,ELITE_V_MEDIUM_TRANSPORT_01
+129041448,MediumTransport01_Armour_Reactive,standard,Reactive Surface Composite,,,Lynx Highliner,1,A,ELITE_V_MEDIUM_TRANSPORT_01
+129043770,Int_MkII_PassengerCabin_Size2_Class1,internal,MkII Economy Class Passenger Cabin,,,,2,D,
+129043771,Int_MkII_PassengerCabin_Size3_Class1,internal,MkII Economy Class Passenger Cabin,,,,3,D,
+129043772,Int_MkII_PassengerCabin_Size3_Class2,internal,MkII Business Class Passenger Cabin,,,,3,C,
+129043773,Int_MkII_PassengerCabin_Size4_Class1,internal,MkII Economy Class Passenger Cabin,,,,4,D,
+129043774,Int_MkII_PassengerCabin_Size4_Class2,internal,MkII Business Class Passenger Cabin,,,,4,C,
+129043775,Int_MkII_PassengerCabin_Size5_Class1,internal,MkII Economy Class Passenger Cabin,,,,5,D,
+129043776,Int_MkII_PassengerCabin_Size5_Class2,internal,MkII Business Class Passenger Cabin,,,,5,C,
+129043777,Int_MkII_PassengerCabin_Size6_Class1,internal,MkII Economy Class Passenger Cabin,,,,5,D,
+129043778,Int_MkII_PassengerCabin_Size6_Class2,internal,MkII Business Class Passenger Cabin,,,,5,C,
