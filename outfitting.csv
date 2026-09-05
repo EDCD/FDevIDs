@@ -1219,3 +1219,19 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129045963,Int_FighterBay_Size5_Class1_Free,internal,Vessel Hangar,,,,5,D,ELITE_V_MKIFIGHTERBAY_FREE
 129045964,Int_FighterBay_Size6_Class1_Free,internal,Vessel Hangar,,,,6,D,ELITE_V_MKIFIGHTERBAY_FREE
 129045965,Int_FighterBay_Size7_Class1_Free,internal,Vessel Hangar,,,,7,D,ELITE_V_MKIFIGHTERBAY_FREE
+129046055,Int_LargeBuggyBay_Size2_Class3,internal,Large Planetary Vehicle Hangar,,,,2,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046056,Int_LargeBuggyBay_Size4_Class3,internal,Large Planetary Vehicle Hangar,,,,4,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046057,Int_LargeBuggyBay_Size6_Class3,internal,Large Planetary Vehicle Hangar,,,,6,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046058,Int_MkIILargeBuggyBay_Size2_Class3,internal,Mk II Large Planetary Vehicle Hangar,,,,2,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046059,Int_MkIILargeBuggyBay_Size4_Class3,internal,Mk II Large Planetary Vehicle Hangar,,,,4,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046060,Int_MkIILargeBuggyBay_Size6_Class3,internal,Mk II Large Planetary Vehicle Hangar,,,,6,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+129046181,Int_LargeBuggyBay_Size2_Class3_Free,internal,Large Planetary Vehicle Hangar,,,,2,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046182,Int_LargeBuggyBay_Size4_Class3_Free,internal,Large Planetary Vehicle Hangar,,,,4,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046183,Int_LargeBuggyBay_Size6_Class3_Free,internal,Large Planetary Vehicle Hangar,,,,6,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046184,Int_MkIILargeBuggyBay_Size2_Class3_Free,internal,Mk II Large Planetary Vehicle Hangar,,,,2,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046185,Int_MkIILargeBuggyBay_Size4_Class3_Free,internal,Mk II Large Planetary Vehicle Hangar,,,,4,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046186,Int_MkIILargeBuggyBay_Size6_Class3_Free,internal,Mk II Large Planetary Vehicle Hangar,,,,6,F,ELITE_V_LARGEBUGGYBAY_FREE
+129046187,Hpt_Cannon_Fixed_Huge,mercgear,Force Impact Cannon,Fixed,,,4,B,
+129046188,Hpt_PulseLaserBurst_Gimbal_Medium,mercgear,Regenerative Burst Laser,Gimballed,,,2,F,
+129046189,Hpt_BeamLaser_Fixed_Huge,mercgear,Overloaded Beam Laser,Fixed,,,4,A,
+129046190,Hpt_BasicMissileRack_Fixed_Large,mercgear,Exposing Missiles,Fixed,Seeker,,3,A,
