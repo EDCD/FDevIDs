@@ -1219,6 +1219,12 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129045963,Int_FighterBay_Size5_Class1_Free,internal,Vessel Hangar,,,,5,D,ELITE_V_MKIFIGHTERBAY_FREE
 129045964,Int_FighterBay_Size6_Class1_Free,internal,Vessel Hangar,,,,6,D,ELITE_V_MKIFIGHTERBAY_FREE
 129045965,Int_FighterBay_Size7_Class1_Free,internal,Vessel Hangar,,,,7,D,ELITE_V_MKIFIGHTERBAY_FREE
+129046027,AnacondaMkII_Armour_Grade1,standard,Mk II Ablative Lightweight Alloys,,,Anaconda Mk II,1,C,ELITE_V_ANACONDA_MKII
+129046028,AnacondaMkII_Armour_Grade1_Default,standard,Lightweight Alloy,,,Anaconda Mk II,1,C,ELITE_V_ANACONDA_MKII
+129046029,AnacondaMkII_Armour_Grade2,standard,Mk II Ablative Reinforced Alloys,,,Anaconda Mk II,1,B,ELITE_V_ANACONDA_MKII
+129046030,AnacondaMkII_Armour_Grade3,standard,Mk II Ablative Military Grade Composite,,,Anaconda Mk II,1,A,ELITE_V_ANACONDA_MKII
+129046031,AnacondaMkII_Armour_Mirrored,standard,Mk II Ablative Mirrored Surface Composite,,,Anaconda Mk II,1,A,ELITE_V_ANACONDA_MKII
+129046032,AnacondaMkII_Armour_Reactive,standard,Mk II Ablative Reactive Surface Composite,,,Anaconda Mk II,1,A,ELITE_V_ANACONDA_MKII
 129046055,Int_LargeBuggyBay_Size2_Class3,internal,Large Planetary Vehicle Hangar,,,,2,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129046056,Int_LargeBuggyBay_Size4_Class3,internal,Large Planetary Vehicle Hangar,,,,4,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129046057,Int_LargeBuggyBay_Size6_Class3,internal,Large Planetary Vehicle Hangar,,,,6,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
@@ -1235,3 +1241,4 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129046188,Hpt_PulseLaserBurst_Gimbal_Medium,mercgear,Regenerative Burst Laser,Gimballed,,,2,F,
 129046189,Hpt_BeamLaser_Fixed_Huge,mercgear,Overloaded Beam Laser,Fixed,,,4,A,
 129046190,Hpt_BasicMissileRack_Fixed_Large,mercgear,Exposing Missiles,Fixed,Seeker,,3,A,
+129051593,Int_LargeCargoRack_Size6_Class1,internal,Mk II Cargo Rack,,,,6,D,
